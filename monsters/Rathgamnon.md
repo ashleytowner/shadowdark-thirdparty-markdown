@@ -20,7 +20,8 @@ targeting Rathgamnon are DC 18 to cast.
 
 **Roar.** In place of attacks, all creatures who can hear within far DC 18
 CHA or be rendered blind and speechless for 1d4 days.
-Abjure (WIS Spell). DC 13. Self. End any hostile magical effects
+
+**Abjure (WIS Spell).** DC 13. Self. End any hostile magical effects
 affecting Rathgamnon.
 
 **Abolish (WIS Spell).** DC 13. One target in far takes 5d8 damage.

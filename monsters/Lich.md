@@ -11,7 +11,9 @@ _A wizard who has completed a necromantic ritual to become a mighty, undead sorc
 
 **Supreme Undead**. Immune to morale checks. Only damaged by magical sources. 
 
-**Phylactery.** Can't be killed while spirit vessel (an object) is intact. Paralysis. DC 15 CON or paralyzed 1d4 rounds. 
+**Phylactery.** Can't be killed while spirit vessel (an object) is intact. 
+
+**Paralysis.** DC 15 CON or paralyzed 1d4 rounds. 
 
 **Flight (INT Spell).** Self. DC 13. Fly double near for 5 rounds. 
 
