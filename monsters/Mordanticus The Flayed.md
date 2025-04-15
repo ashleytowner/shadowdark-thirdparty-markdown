@@ -5,7 +5,7 @@ tags:
   - ttrpg/monster
 ---
 
-_A skinless mummy-lich wearing a crown set with nine bright gems. Once the head of the ancient, wizardly order of Gehemna, Mordanticus now lives in secret within the sanctum of Gehemna's reigning archmage. He has served as an advisro and historian for centuries, but an enduring encahntment prevents him from speaking of two topics: his origins, and the Ten-Eyed Oracle._
+_A skinless mummy-lich wearing a crown set with nine bright gems. Once the head of the ancient, wizardly order of Gehemna, Mordanticus now lives in secret within the sanctum of Gehemna's reigning archmage. He has served as an advisor and historian for centuries, but an enduring enchantment prevents him from speaking of two topics: his origins, and the Ten-Eyed Oracle._
 
 **AC** 17, **HP** 89, **ATK** 1 rot touch +8 (1d10 + necrosis) and 3 spell +8, **MV** near, **S** +4, **D** +4, **C** +4, **I** +5, **W** +4, **Ch** +5, **AL** N, **LV** 19
 
