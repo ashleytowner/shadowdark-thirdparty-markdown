@@ -6,7 +6,7 @@ ttrpg-source:
 tags:
   - "ttrpg/spell"
 ---
-*Tier 2, priest, witch*
+*Tier 2, priest*
 
 **Duration:** Instant
 **Range:** Self

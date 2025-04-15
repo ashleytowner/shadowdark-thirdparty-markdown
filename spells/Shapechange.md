@@ -6,7 +6,7 @@ ttrpg-source:
 tags:
   - "ttrpg/spell"
 ---
-*Tier 5, witch, wizard*
+*Tier 5, wizard*
 
 **Duration:** Focus
 **Range:** Self

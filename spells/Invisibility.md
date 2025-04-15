@@ -6,7 +6,7 @@ ttrpg-source:
 tags:
   - "ttrpg/spell"
 ---
-*Tier 2, witch, wizard*
+*Tier 2, wizard*
 
 **Duration:** 10 rounds
 **Range:** Close

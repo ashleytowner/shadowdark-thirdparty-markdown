@@ -6,7 +6,7 @@ ttrpg-source:
 tags:
   - "ttrpg/spell"
 ---
-*Tier 1, witch, wizard*
+*Tier 1, wizard*
 
 **Duration:** 1d8 days
 **Range:** Near

@@ -6,7 +6,7 @@ ttrpg-source:
 tags:
   - ttrpg/spell
 ---
-*Tier 4, witch, wizard*
+*Tier 4, wizard*
 
 **Duration:** Instant
 **Range:** Self

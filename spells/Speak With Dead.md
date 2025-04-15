@@ -6,7 +6,7 @@ ttrpg-source:
 tags:
   - "ttrpg/spell"
 ---
-*Tier 3, priest, witch, wizard*
+*Tier 3, priest, wizard*
 
 **Duration:** Instant
 **Range:** Close
