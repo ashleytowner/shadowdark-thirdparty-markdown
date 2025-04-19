@@ -16,7 +16,7 @@ cha: -3
 alignment: N
 level: 6
 ---
-.
+
 _A hulking, insectoid beast with long mandibles, four eyes, and thick arms covered in bristles._
 
 **AC** 14, **HP** 28, **ATK** 2 claw +5 (1d8) and 1 mandible +5 (1d10), **MV** near (burrow), **S** +4, **D** +1, **C** +1, **I** -3, **W** +1, **Ch** -3, **AL** N, **LV** 6
