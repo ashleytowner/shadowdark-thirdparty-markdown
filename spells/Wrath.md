@@ -7,6 +7,8 @@ tags:
 tier: 4
 duration: 10 rounds
 range: Self
+class:
+  - priest
 ---
 *Tier 4, priest*
 

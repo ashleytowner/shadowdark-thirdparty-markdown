@@ -7,6 +7,8 @@ tags:
 tier: 3
 duration: Focus
 range: Close
+class:
+  - wizard
 ---
 *Tier 3, wizard*
 

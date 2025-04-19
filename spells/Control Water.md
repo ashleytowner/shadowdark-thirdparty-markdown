@@ -7,6 +7,9 @@ tags:
 tier: 4
 duration: Focus
 range: Far
+class:
+  - priest
+  - wizard
 ---
 *Tier 4, priest, wizard*
 

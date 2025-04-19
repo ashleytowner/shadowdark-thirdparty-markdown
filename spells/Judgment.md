@@ -7,6 +7,8 @@ tags:
 tier: 5
 duration: 5 rounds
 range: Close
+class:
+  - priest
 ---
 *Tier 5, priest*
 

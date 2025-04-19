@@ -7,6 +7,8 @@ tags:
 tier: 4
 duration: Instant
 range: Far
+class:
+  - priest
 ---
 *Tier 4, priest*
 

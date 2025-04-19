@@ -7,6 +7,8 @@ tags:
 tier: 5
 duration: Focus
 range: Near
+class:
+  - wizard
 ---
 *Tier 5, wizard*
 

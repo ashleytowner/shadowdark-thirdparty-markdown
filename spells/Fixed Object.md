@@ -7,6 +7,8 @@ tags:
 tier: 2
 duration: 5 rounds
 range: Close
+class:
+  - wizard
 ---
 *Tier 2, wizard*
 

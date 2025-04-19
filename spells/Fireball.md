@@ -7,6 +7,8 @@ tags:
 tier: 3
 duration: Instant
 range: Far
+class:
+  - wizard
 ---
 *Tier 3, wizard*
 

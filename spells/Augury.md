@@ -8,6 +8,8 @@ tags:
 tier: 2
 duration: Instant
 range: Self
+class:
+  - priest
 ---
 *Tier 2, priest*
 

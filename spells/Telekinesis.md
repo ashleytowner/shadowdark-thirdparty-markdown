@@ -7,6 +7,8 @@ tags:
 tier: 4
 duration: Focus
 range: Far
+class:
+  - wizard
 ---
 *Tier 4, wizard*
 

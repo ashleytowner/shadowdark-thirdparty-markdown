@@ -7,6 +7,8 @@ tags:
 tier: 5
 duration: Instant
 range: Self
+class:
+  - wizard
 ---
 *Tier 5, wizard*
 

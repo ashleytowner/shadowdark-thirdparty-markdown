@@ -8,6 +8,8 @@ tags:
 tier: 4
 duration: 10 rounds
 range: Close
+class:
+  - wizard
 ---
 *Tier 4, wizard*
 

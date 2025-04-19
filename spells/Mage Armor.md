@@ -7,6 +7,8 @@ tags:
 tier: 1
 duration: 10 rounds
 range: Self
+class:
+  - wizard
 ---
 *Tier 1, wizard*
 

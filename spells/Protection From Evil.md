@@ -7,6 +7,9 @@ tags:
 tier: 1
 duration: Focus
 range: Close
+class:
+  - priest
+  - wizard
 ---
 *Tier 1, priest, wizard*
 

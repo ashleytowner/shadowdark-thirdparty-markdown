@@ -7,6 +7,9 @@ tags:
 tier: 1
 duration: 1 hour real time
 range: Close
+class:
+  - priest
+  - wizard
 ---
 *Tier 1, priest, wizard*
 

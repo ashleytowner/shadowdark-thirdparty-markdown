@@ -7,6 +7,8 @@ tags:
 tier: 1
 duration: 1 day
 range: Close
+class:
+  - wizard
 ---
 *Tier 1, wizard*
 

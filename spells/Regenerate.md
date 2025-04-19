@@ -7,6 +7,8 @@ tags:
 tier: 4
 duration: Focus
 range: Close
+class:
+  - priest
 ---
 *Tier 4, priest*
 

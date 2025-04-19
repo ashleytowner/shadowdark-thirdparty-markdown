@@ -7,6 +7,8 @@ tags:
 tier: 3
 duration: 10 rounds
 range: Near
+class:
+  - wizard
 ---
 *Tier 3, wizard*
 

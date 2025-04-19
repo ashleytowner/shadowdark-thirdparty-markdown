@@ -8,6 +8,8 @@ tags:
 tier: 1
 duration: 1d8 days
 range: Near
+class:
+  - wizard
 ---
 *Tier 1, wizard*
 

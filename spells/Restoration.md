@@ -7,6 +7,8 @@ tags:
 tier: 3
 duration: Instant
 range: Close
+class:
+  - priest
 ---
 *Tier 3, priest*
 

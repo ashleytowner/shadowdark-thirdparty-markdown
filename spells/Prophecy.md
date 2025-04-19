@@ -7,6 +7,8 @@ tags:
 tier: 5
 duration: Instant
 range: Self
+class:
+  - priest
 ---
 *Tier 5, priest*
 

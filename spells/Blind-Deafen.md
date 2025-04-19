@@ -7,6 +7,8 @@ tags:
 tier: 2
 duration: Focus
 range: Near
+class:
+  - priest
 ---
 *Tier 2, priest*
 

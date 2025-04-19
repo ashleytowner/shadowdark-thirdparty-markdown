@@ -8,6 +8,8 @@ tags:
 tier: 5
 duration: Focus
 range: Self
+class:
+  - wizard
 ---
 *Tier 5, wizard*
 

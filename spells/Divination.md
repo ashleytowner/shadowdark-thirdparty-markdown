@@ -8,6 +8,8 @@ tags:
 tier: 4
 duration: Instant
 range: Self
+class:
+  - wizard
 ---
 *Tier 4, wizard*
 

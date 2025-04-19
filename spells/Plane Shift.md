@@ -7,6 +7,9 @@ tags:
 tier: 5
 duration: Instant
 range: Close
+class:
+  - priest
+  - wizard
 ---
 *Tier 5, priest, wizard*
 

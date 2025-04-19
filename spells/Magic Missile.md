@@ -7,6 +7,8 @@ tags:
 tier: 1
 duration: Instant
 range: Far
+class:
+  - wizard
 ---
 *Tier 1, wizard*
 
