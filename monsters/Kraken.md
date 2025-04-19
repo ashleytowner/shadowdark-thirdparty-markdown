@@ -3,6 +3,16 @@ ttrpg-system: "[[Shadowdark]]"
 ttrpg-source: "Shadowdark Core Rules"
 tags:
   - ttrpg/monster
+ac: 18
+hp: 80
+str: 6
+dex: 3
+con: 4
+int: 4
+wis: 3
+cha: 4
+al: C
+lv: 17
 ---
 
 _Primordial, tentacled leviathans the size of war galleons. They live in the lightless depths of the deep ocean._

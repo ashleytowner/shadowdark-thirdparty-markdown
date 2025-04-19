@@ -3,6 +3,17 @@ ttrpg-system: "[[Shadowdark]]"
 ttrpg-source: "Shadowdark Core Rules"
 tags:
   - ttrpg/monster
+ac: 16
+armor-type: mithral chainmail
+hp: 9
+str: 0
+dex: 3
+con: 0
+int: 1
+wis: 1
+cha: 1
+al: C
+lv: 2
 ---
 
 _A graceful, shadowy elf that pounces like a spider._

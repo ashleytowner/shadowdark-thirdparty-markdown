@@ -5,6 +5,17 @@ tags:
   - ttrpg/monster
 aliases:
   -  Sorcerer Kobold
+ac: 13
+armor-type: leather
+hp: 13
+str: -2
+dex: 2
+con: 0
+int: -1
+wis: 1
+cha: 2
+al: C
+lv: 3
 ---
 
 _A scaly dog-lizard painted with colorful stripes and rattling a hefty leg bone strung with beads and feathers._

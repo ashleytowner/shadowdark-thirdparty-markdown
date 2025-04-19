@@ -3,6 +3,17 @@ ttrpg-system: "[[Shadowdark]]"
 ttrpg-source: "Shadowdark Core Rules"
 tags:
   - ttrpg/monster
+ac: 12
+armor-type: leather
+hp: 14
+str: 2
+dex: 1
+con: 1
+int: 0
+wis: 2
+cha: 1
+al: N
+lv: 3
 ---
 
 _Herd-dwelling beings with the upper body of a human and lower body of a horse._

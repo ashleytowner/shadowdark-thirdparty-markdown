@@ -5,6 +5,17 @@ tags:
   - ttrpg/monster
 aliases:
   -  Goat Giant
+ac: 12
+armor-type: leather
+hp: 39
+str: 4
+dex: 1
+con: 3
+int: -2
+wis: 0
+cha: -2
+al: C
+lv: 8
 ---
 
 _Highland-dwelling, barbaric giants with goatlike legs, horns, and horizontal pupils._

@@ -9,6 +9,16 @@ aliases:
   - Imp
 aliases:
   -  Imp Devil
+ac: 13
+hp: 9
+str: -2
+dex: 3
+con: 0
+int: 1
+wis: 0
+cha: 2
+al: C
+lv: 2
 ---
 
 _Cat-sized, red devils with oversized wings and tail, tiny horns, and cowardly demeanors._

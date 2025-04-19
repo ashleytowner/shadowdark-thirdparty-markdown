@@ -3,6 +3,17 @@ ttrpg-system: "[[Shadowdark]]"
 ttrpg-source: "Shadowdark Core Rules"
 tags:
   - ttrpg/monster
+ac: 14
+armor-type: leather
+hp: 36
+str: 2
+dex: 3
+con: 0
+int: 4
+wis: 2
+cha: 4
+al: C
+lv: 8
 ---
 
 _Purple, gaunt humanoids with squidlike heads and four face tentacles. They live in complex, alien societies underground and eat humanoid brains._

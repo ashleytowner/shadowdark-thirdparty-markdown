@@ -5,6 +5,16 @@ ttrpg-source:
   - Doom in the Red Wastes
 tags:
   - ttrpg/monster
+ac: 13
+hp: 10
+str: -1
+dex: 3
+con: 1
+int: -2
+wis: 1
+cha: -3
+al: N
+lv: 2
 ---
 
 _Fast, turkey-sized raptors with vicious toe claws. Pack hunters._

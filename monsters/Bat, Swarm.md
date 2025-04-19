@@ -5,6 +5,16 @@ tags:
   - ttrpg/monster
 aliases:
   -  Swarm Bat
+ac: 12
+hp: 18
+str: -3
+dex: 2
+con: 0
+int: -3
+wis: 1
+cha: -3
+al: N
+lv: 4
 ---
 
 _A whirling cloud of screeching, bloodthirsty bats._

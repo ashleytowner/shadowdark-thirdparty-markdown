@@ -3,6 +3,16 @@ ttrpg-system: "[[Shadowdark]]"
 ttrpg-source: "Shadowdark Core Rules"
 tags:
   - ttrpg/monster
+ac: 11
+hp: 3
+str: -1
+dex: 1
+con: -1
+int: 2
+wis: 0
+cha: 0
+al: N
+lv: 1
 ---
 
 _A cloaked magician with a thin, freshly bound spellbook._

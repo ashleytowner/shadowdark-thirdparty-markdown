@@ -3,6 +3,16 @@ ttrpg-system: "[[Shadowdark]]"
 ttrpg-source: "Shadowdark Core Rules"
 tags:
   - ttrpg/monster
+ac: 15
+hp: 25
+str: 3
+dex: -1
+con: 3
+int: -1
+wis: 1
+cha: -2
+al: C
+lv: 5
 ---
 
 _Brown, horse-sized lobster bugs with tentacles and pincers._

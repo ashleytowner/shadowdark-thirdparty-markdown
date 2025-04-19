@@ -3,6 +3,17 @@ ttrpg-system: "[[Shadowdark]]"
 ttrpg-source: "Shadowdark Core Rules"
 tags:
   - ttrpg/monster
+ac: 15
+armor-type: chainmail + shield
+hp: 12
+str: 2
+dex: 0
+con: 3
+int: 0
+wis: -1
+cha: -1
+al: C
+lv: 2
 ---
 
 _Gray-skinned, greedy dwarves with bald pates and white beards. They dwell in somber castles deep within the earth filled with stolen treasures and enslaved prisoners._

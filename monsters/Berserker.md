@@ -3,6 +3,17 @@ ttrpg-system: "[[Shadowdark]]"
 ttrpg-source: "Shadowdark Core Rules"
 tags:
   - ttrpg/monster
+ac: 12
+armor-type: leather
+hp: 10
+str: 2
+dex: 1
+con: 1
+int: 0
+wis: 1
+cha: 0
+al: N
+lv: 2
 ---
 
 _Howling, battleraging warriors._

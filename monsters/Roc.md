@@ -3,6 +3,16 @@ ttrpg-system: "[[Shadowdark]]"
 ttrpg-source: "Shadowdark Core Rules"
 tags:
   - ttrpg/monster
+ac: 15
+hp: 69
+str: 5
+dex: 3
+con: 2
+int: -2
+wis: 2
+cha: -2
+al: N
+lv: 15
 ---
 
 _Dragon-sized hawks that nest in remote mountains._

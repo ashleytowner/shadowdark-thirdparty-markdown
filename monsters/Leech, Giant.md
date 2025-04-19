@@ -5,6 +5,16 @@ tags:
   - ttrpg/monster
 aliases:
   -  Giant Leech
+ac: 9
+hp: 10
+str: 1
+dex: -1
+con: 1
+int: -3
+wis: -1
+cha: -3
+al: N
+lv: 2
 ---
 
 _A glossy black, blood-drinking slug as large as a cat._

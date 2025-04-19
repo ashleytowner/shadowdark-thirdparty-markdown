@@ -3,6 +3,16 @@ ttrpg-system: "[[Shadowdark]]"
 ttrpg-source: "Shadowdark Core Rules"
 tags:
   - ttrpg/monster
+ac: 11
+hp: 14
+str: -2
+dex: 1
+con: 1
+int: -3
+wis: 1
+cha: -3
+al: N
+lv: 3
 ---
 
 _A molting, lizard-chicken hybrid with a crimson, razorlike crest._

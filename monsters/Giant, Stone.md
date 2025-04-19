@@ -5,6 +5,16 @@ tags:
   - ttrpg/monster
 aliases:
   -  Stone Giant
+ac: 17
+hp: 40
+str: 4
+dex: 2
+con: 4
+int: 1
+wis: 1
+cha: -1
+al: N
+lv: 8
 ---
 
 _Lean, sinewy giants with stony skin and deep-set eyes. They are quiet and poised, often sitting motionless for days at a time._

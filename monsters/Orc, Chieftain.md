@@ -5,6 +5,17 @@ tags:
   - ttrpg/monster
 aliases:
   -  Chieftain Orc
+ac: 14
+armor-type: chainmail
+hp: 19
+str: 2
+dex: 1
+con: 1
+int: -1
+wis: 0
+cha: -1
+al: C
+lv: 4
 ---
 
 _An imposing orc with scars crisscrossing its body._

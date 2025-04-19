@@ -5,6 +5,17 @@ tags:
   - ttrpg/monster
 aliases:
   -  Drider Drow
+ac: 16
+armor-type: mithral chainmail
+hp: 29
+str: 3
+dex: 3
+con: 2
+int: 2
+wis: 2
+cha: 0
+al: C
+lv: 6
 ---
 
 _A monstrosity with the body of a giant spider and torso of a drow._

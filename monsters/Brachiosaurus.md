@@ -3,6 +3,16 @@ ttrpg-system: "[[Shadowdark]]"
 ttrpg-source: "Shadowdark Core Rules"
 tags:
   - ttrpg/monster
+ac: 13
+hp: 57
+str: 6
+dex: -1
+con: 3
+int: -3
+wis: 1
+cha: -3
+al: N
+lv: 12
 ---
 
 _Colossal, long-necked tree grazers. Slow and peaceful._

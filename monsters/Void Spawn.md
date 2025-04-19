@@ -3,6 +3,16 @@ ttrpg-system: "[[Shadowdark]]"
 ttrpg-source: "Shadowdark Core Rules"
 tags:
   - ttrpg/monster
+ac: 13
+hp: 34
+str: 4
+dex: 1
+con: 3
+int: 0
+wis: 1
+cha: -1
+al: C
+lv: 7
 ---
 
 _Scythe-like limbs jut from a purple bulb as big as an ogre. Its lower half is a nest of tentacles._

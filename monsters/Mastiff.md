@@ -3,6 +3,16 @@ ttrpg-system: "[[Shadowdark]]"
 ttrpg-source: "Shadowdark Core Rules"
 tags:
   - ttrpg/monster
+ac: 11
+hp: 4
+str: 1
+dex: 1
+con: 0
+int: -2
+wis: 1
+cha: -2
+al: N
+lv: 1
 ---
 
 _Muscled guard dogs with fierce loyalty to their pack or owners._

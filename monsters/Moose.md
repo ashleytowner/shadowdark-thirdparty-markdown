@@ -3,6 +3,16 @@ ttrpg-system: "[[Shadowdark]]"
 ttrpg-source: "Shadowdark Core Rules"
 tags:
   - ttrpg/monster
+ac: 11
+hp: 19
+str: 3
+dex: 0
+con: 1
+int: -2
+wis: 0
+cha: -2
+al: N
+lv: 4
 ---
 
 _A towering, brown-haired grazer with weighty, flat antlers._

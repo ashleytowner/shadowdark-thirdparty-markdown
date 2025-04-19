@@ -3,6 +3,16 @@ ttrpg-system: "[[Shadowdark]]"
 ttrpg-source: "Shadowdark Core Rules"
 tags:
   - ttrpg/monster
+ac: 11
+hp: 9
+str: 1
+dex: 1
+con: 0
+int: 0
+wis: 1
+cha: 1
+al: L
+lv: 2
 ---
 
 _Ocean dwellers with human upper bodies and long fish tails._

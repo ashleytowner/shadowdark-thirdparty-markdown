@@ -3,6 +3,17 @@ ttrpg-system: "[[Shadowdark]]"
 ttrpg-source: "Shadowdark Core Rules"
 tags:
   - ttrpg/monster
+ac: 12
+armor-type: leather
+hp: 4
+str: 1
+dex: 1
+con: 0
+int: 0
+wis: 0
+cha: 0
+al: C
+lv: 1
 ---
 
 _Seafaring scoundrels who live to steal and hoard treasure._

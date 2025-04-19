@@ -3,6 +3,16 @@ ttrpg-system: "[[Shadowdark]]"
 ttrpg-source: "Shadowdark Core Rules"
 tags:
   - ttrpg/monster
+ac: 12
+hp: 20
+str: 3
+dex: 2
+con: 2
+int: 1
+wis: 2
+cha: 3
+al: L
+lv: 4
 ---
 
 _A silvery horse with a flowing mane and a single spiral horn._

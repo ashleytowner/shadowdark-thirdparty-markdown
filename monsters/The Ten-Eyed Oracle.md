@@ -3,6 +3,16 @@ ttrpg-system: "[[Shadowdark]]"
 ttrpg-source: "Shadowdark Core Rules"
 tags:
   - ttrpg/monster
+ac: 17
+hp: 85
+str: 4
+dex: 5
+con: 4
+int: 5
+wis: 4
+cha: 4
+al: C
+lv: 18
 ---
 *A floating mass of rubbery skin crusted with barnacles. Its ten
 eyestalks writhe like snakes, and a deep, circular scar mars its

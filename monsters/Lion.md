@@ -3,6 +3,16 @@ ttrpg-system: "[[Shadowdark]]"
 ttrpg-source: "Shadowdark Core Rules"
 tags:
   - ttrpg/monster
+ac: 12
+hp: 15
+str: 4
+dex: 2
+con: 2
+int: -3
+wis: 1
+cha: -3
+al: N
+lv: 3
 ---
 
 _Tawny great cats that hunt in open plains. Males have manes._

@@ -3,6 +3,16 @@ ttrpg-system: "[[Shadowdark]]"
 ttrpg-source: "Shadowdark Core Rules"
 tags:
   - ttrpg/monster
+ac: 12
+hp: 44
+str: -1
+dex: 2
+con: -1
+int: 4
+wis: 2
+cha: 1
+al: L
+lv: 10
 ---
 
 _A wizened magic-user crackling with arcane power._

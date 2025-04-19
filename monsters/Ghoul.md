@@ -3,6 +3,16 @@ ttrpg-system: "[[Shadowdark]]"
 ttrpg-source: "Shadowdark Core Rules"
 tags:
   - ttrpg/monster
+ac: 11
+hp: 11
+str: 2
+dex: 1
+con: 2
+int: -3
+wis: -1
+cha: 0
+al: C
+lv: 2
 ---
 
 _Gray-skinned, slavering undead with whipping tongues and flat, reptilian faces._

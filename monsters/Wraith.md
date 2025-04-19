@@ -3,6 +3,16 @@ ttrpg-system: "[[Shadowdark]]"
 ttrpg-source: "Shadowdark Core Rules"
 tags:
   - ttrpg/monster
+ac: 14
+hp: 36
+str: -4
+dex: 4
+con: 0
+int: 0
+wis: 0
+cha: 3
+al: C
+lv: 8
 ---
 
 _A shadowy spirit seething with anger and malice. Its presence is unsettling to animals._

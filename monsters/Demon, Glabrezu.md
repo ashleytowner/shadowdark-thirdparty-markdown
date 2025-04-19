@@ -5,6 +5,16 @@ tags:
   - ttrpg/monster
 aliases:
   -  Glabrezu Demon
+ac: 15
+hp: 40
+str: 4
+dex: 1
+con: 4
+int: 3
+wis: 2
+cha: 2
+al: C
+lv: 8
 ---
 
 _Horse-headed, fanged creatures who walk upright and have four arms; two shriveled, and two ending in hulking pincers._

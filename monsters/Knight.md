@@ -3,6 +3,17 @@ ttrpg-system: "[[Shadowdark]]"
 ttrpg-source: "Shadowdark Core Rules"
 tags:
   - ttrpg/monster
+ac: 17
+armor-type: plate mail + shield
+hp: 14
+str: 3
+dex: 0
+con: 1
+int: 0
+wis: 0
+cha: 1
+al: L
+lv: 3
 ---
 
 _A warrior in shining plate mail and the surcoat of a knightly order._

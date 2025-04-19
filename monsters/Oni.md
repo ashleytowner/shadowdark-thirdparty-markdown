@@ -3,6 +3,16 @@ ttrpg-system: "[[Shadowdark]]"
 ttrpg-source: "Shadowdark Core Rules"
 tags:
   - ttrpg/monster
+ac: 11
+hp: 33
+str: 5
+dex: 1
+con: 2
+int: 2
+wis: 1
+cha: 3
+al: C
+lv: 7
 ---
 
 _Cunning and sorcerous ogre- demons with shaggy white hair, blue skin, and yellow eyes._

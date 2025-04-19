@@ -3,6 +3,16 @@ ttrpg-system: "[[Shadowdark]]"
 ttrpg-source: "Shadowdark Core Rules"
 tags:
   - ttrpg/monster
+ac: 9
+hp: 20
+str: 2
+dex: -1
+con: 2
+int: -4
+wis: -3
+cha: -4
+al: N
+lv: 4
 ---
 
 _An orange puddle of quivering slime._

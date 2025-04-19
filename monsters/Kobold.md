@@ -3,6 +3,17 @@ ttrpg-system: "[[Shadowdark]]"
 ttrpg-source: "Shadowdark Core Rules"
 tags:
   - ttrpg/monster
+ac: 13
+armor-type: leather
+hp: 1
+str: -2
+dex: 2
+con: 0
+int: -1
+wis: 0
+cha: -1
+al: C
+lv: 0
 ---
 
 _Puny, scaled coyote-lizards that dwell underground._

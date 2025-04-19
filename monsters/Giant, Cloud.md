@@ -5,6 +5,17 @@ tags:
   - ttrpg/monster
 aliases:
   -  Cloud Giant
+ac: 15
+armor-type: leather
+hp: 48
+str: 5
+dex: 4
+con: 3
+int: 3
+wis: 3
+cha: 3
+al: N
+lv: 10
 ---
 
 _Pale, angular giants with blue-gray hair, light eyes, and silk robes. They do not allow outsiders into their enclaves._

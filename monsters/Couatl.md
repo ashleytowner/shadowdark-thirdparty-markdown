@@ -3,6 +3,16 @@ ttrpg-system: "[[Shadowdark]]"
 ttrpg-source: "Shadowdark Core Rules"
 tags:
   - ttrpg/monster
+ac: 16
+hp: 42
+str: 2
+dex: 3
+con: 2
+int: 4
+wis: 4
+cha: 5
+al: L
+lv: 9
 ---
 
 _A human-sized snake with scales made of jewels and a corona of iridescent feathers._

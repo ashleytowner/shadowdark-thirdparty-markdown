@@ -5,6 +5,16 @@ tags:
   - ttrpg/monster
 aliases:
   -  Sea Dragon
+ac: 17
+hp: 76
+str: 5
+dex: 6
+con: 4
+int: 4
+wis: 5
+cha: 5
+al: L
+lv: 16
 ---
 
 _A warm sea breeze blows around this amphibious, gold- scaled wyrm. A beard of tendrils covers its snout, and a blue mane billows along its neck._

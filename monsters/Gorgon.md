@@ -3,6 +3,16 @@ ttrpg-system: "[[Shadowdark]]"
 ttrpg-source: "Shadowdark Core Rules"
 tags:
   - ttrpg/monster
+ac: 18
+hp: 33
+str: 4
+dex: 0
+con: 2
+int: -3
+wis: 1
+cha: -3
+al: C
+lv: 7
 ---
 
 _A snorting bull made entirely of iron plating. A cloud of green fog billows from its nostrils._

@@ -3,6 +3,17 @@ ttrpg-system: "[[Shadowdark]]"
 ttrpg-source: "Shadowdark Core Rules"
 tags:
   - ttrpg/monster
+ac: 13
+armor-type: chainmail
+hp: 11
+str: 1
+dex: 0
+con: 2
+int: -2
+wis: 0
+cha: -1
+al: C
+lv: 2
 ---
 
 _A bleach-boned skeleton with red pinpoints of light in its eyes._

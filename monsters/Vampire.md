@@ -5,6 +5,16 @@ ttrpg-source:
   - Raiders of the Hidden Temple
 tags:
   - ttrpg/monster
+ac: 15
+hp: 52
+str: 4
+dex: 3
+con: 3
+int: 1
+wis: 3
+cha: 4
+al: C
+lv: 11
 ---
 
 _Pale, blood-drinking undead of supreme power and wickedness. They loathe sunlight and protect their coffins at all costs._

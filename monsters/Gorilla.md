@@ -5,6 +5,16 @@ ttrpg-source:
   - Doom in the Red Wastes
 tags:
   - ttrpg/monster
+ac: 12
+hp: 20
+str: 4
+dex: 2
+con: 2
+int: -1
+wis: 1
+cha: -1
+al: N
+lv: 4
 ---
 
 _Mighty, jungle-dwelling apes._

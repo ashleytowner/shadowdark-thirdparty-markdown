@@ -3,6 +3,16 @@ ttrpg-system: "[[Shadowdark]]"
 ttrpg-source: "Shadowdark Core Rules"
 tags:
   - ttrpg/monster
+ac: 13
+hp: 19
+str: -1
+dex: 2
+con: 1
+int: 1
+wis: 3
+cha: 4
+al: N
+lv: 4
 ---
 
 _A coy, emerald-skinned fey covered in leaves. It bonds with and protects a tree._

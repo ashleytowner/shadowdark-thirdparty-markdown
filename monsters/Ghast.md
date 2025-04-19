@@ -3,6 +3,16 @@ ttrpg-system: "[[Shadowdark]]"
 ttrpg-source: "Shadowdark Core Rules"
 tags:
   - ttrpg/monster
+ac: 11
+hp: 20
+str: 3
+dex: 1
+con: 2
+int: 0
+wis: 0
+cha: 2
+al: C
+lv: 4
 ---
 
 _Greater ghouls who retain the intelligence they had in life._

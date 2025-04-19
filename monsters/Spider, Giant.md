@@ -5,6 +5,16 @@ tags:
   - ttrpg/monster
 aliases:
   -  Giant Spider
+ac: 13
+hp: 13
+str: 2
+dex: 3
+con: 0
+int: -2
+wis: 1
+cha: -2
+al: N
+lv: 3
 ---
 
 _Bulbous abdomen and eight, spindly legs. Dwells high in trees or caves and ambushes prey, capturing them to eat later._

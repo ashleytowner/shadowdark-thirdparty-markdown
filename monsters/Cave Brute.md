@@ -5,6 +5,16 @@ ttrpg-source:
   - Doom in the Red Wastes
 tags:
   - ttrpg/monster
+ac: 14
+hp: 28
+str: 4
+dex: 1
+con: 1
+int: -3
+wis: 1
+cha: -3
+al: N
+lv: 6
 ---
 .
 _A hulking, insectoid beast with long mandibles, four eyes, and thick arms covered in bristles._

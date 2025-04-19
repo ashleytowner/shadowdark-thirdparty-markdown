@@ -5,6 +5,16 @@ tags:
   - ttrpg/monster
 aliases:
   -  Bone Naga
+ac: 13
+hp: 31
+str: 3
+dex: 2
+con: 4
+int: -3
+wis: 0
+cha: 4
+al: C
+lv: 6
 ---
 
 _Mindless, skeletal husks of nagas reanimated by sorcery._

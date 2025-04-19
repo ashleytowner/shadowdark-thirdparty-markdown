@@ -5,6 +5,16 @@ tags:
   - ttrpg/monster
 aliases:
   -  Polar Bear
+ac: 13
+hp: 34
+str: 4
+dex: 1
+con: 3
+int: -2
+wis: 1
+cha: -2
+al: N
+lv: 7
 ---
 
 _A mighty, white bear that thrives in arctic environments._

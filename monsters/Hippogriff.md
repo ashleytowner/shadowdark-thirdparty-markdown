@@ -5,6 +5,16 @@ ttrpg-source:
   - Doom in the Red Wastes
 tags:
   - ttrpg/monster
+ac: 13
+hp: 14
+str: 3
+dex: 3
+con: 1
+int: -3
+wis: 1
+cha: -2
+al: N
+lv: 3
 ---
 
 _Fierce, winged creatures with the lower body of a horse and upper body of a giant eagle._

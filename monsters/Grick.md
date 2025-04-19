@@ -3,6 +3,16 @@ ttrpg-system: "[[Shadowdark]]"
 ttrpg-source: "Shadowdark Core Rules"
 tags:
   - ttrpg/monster
+ac: 14
+hp: 19
+str: 3
+dex: 2
+con: 1
+int: -3
+wis: 1
+cha: -3
+al: N
+lv: 4
 ---
 
 _A huge worm with four suckered tentacles and a snapping beak._

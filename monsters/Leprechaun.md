@@ -3,6 +3,16 @@ ttrpg-system: "[[Shadowdark]]"
 ttrpg-source: "Shadowdark Core Rules"
 tags:
   - ttrpg/monster
+ac: 13
+hp: 19
+str: 1
+dex: 3
+con: 1
+int: 2
+wis: 1
+cha: 3
+al: N
+lv: 4
 ---
 
 _Impish fey who favor green garb and love fooling "tall folk" with promises of gold._

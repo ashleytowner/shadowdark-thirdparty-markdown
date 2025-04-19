@@ -3,6 +3,16 @@ ttrpg-system: "[[Shadowdark]]"
 ttrpg-source: "Shadowdark Core Rules"
 tags:
   - ttrpg/monster
+ac: 11
+hp: 27
+str: -1
+dex: 1
+con: 0
+int: 3
+wis: 1
+cha: 0
+al: L
+lv: 6
 ---
 
 _Trained wizards who are often members of a sorcerous order._

@@ -3,6 +3,16 @@ ttrpg-system: "[[Shadowdark]]"
 ttrpg-source: "Shadowdark Core Rules"
 tags:
   - ttrpg/monster
+ac: 12
+hp: 43
+str: 4
+dex: 2
+con: 3
+int: -3
+wis: 1
+cha: -2
+al: N
+lv: 9
 ---
 
 _A tall, oval-shaped mammal. A giant, half-moon maw hides on its belly beneath its gray fur._

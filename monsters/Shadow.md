@@ -5,6 +5,16 @@ ttrpg-source:
   - Doom in the Red Wastes
 tags:
   - ttrpg/monster
+ac: 12
+hp: 15
+str: -4
+dex: 2
+con: 2
+int: -2
+wis: 0
+cha: -1
+al: C
+lv: 3
 ---
 
 _Flitting, sentient shadows in the vague shape of a human._

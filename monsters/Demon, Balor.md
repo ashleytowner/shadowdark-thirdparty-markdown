@@ -5,6 +5,16 @@ tags:
   - ttrpg/monster
 aliases:
   -  Balor Demon
+ac: 19
+hp: 77
+str: 6
+dex: 2
+con: 5
+int: 4
+wis: 3
+cha: 4
+al: C
+lv: 16
 ---
 
 _Colossal, horned bat-beasts wreathed in the flames of hell itself. Their mighty swords and cracking whips of fire can slice through stone._

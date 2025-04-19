@@ -5,6 +5,16 @@ tags:
   - ttrpg/monster
 aliases:
   -  Giant Rat
+ac: 11
+hp: 5
+str: -2
+dex: 1
+con: 1
+int: -2
+wis: 1
+cha: -2
+al: N
+lv: 1
 ---
 
 _Cunning rats as large as cats. Mangy fur and wormlike tails._

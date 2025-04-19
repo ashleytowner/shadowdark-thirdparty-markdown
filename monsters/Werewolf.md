@@ -3,6 +3,16 @@ ttrpg-system: "[[Shadowdark]]"
 ttrpg-source: "Shadowdark Core Rules"
 tags:
   - ttrpg/monster
+ac: 12
+hp: 20
+str: 3
+dex: 2
+con: 2
+int: 0
+wis: 1
+cha: 0
+al: C
+lv: 4
 ---
 
 _A bipedal, wolf-faced humanoid covered in brown fur._

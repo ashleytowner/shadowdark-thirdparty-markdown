@@ -3,6 +3,16 @@ ttrpg-system: "[[Shadowdark]]"
 ttrpg-source: "Shadowdark Core Rules"
 tags:
   - ttrpg/monster
+ac: 14
+hp: 14
+str: 3
+dex: 4
+con: 1
+int: -2
+wis: 1
+cha: -3
+al: N
+lv: 3
 ---
 
 _Supple large cats with blue- black fur. Stealthy hunters._

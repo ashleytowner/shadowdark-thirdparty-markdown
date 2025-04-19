@@ -3,6 +3,16 @@ ttrpg-system: "[[Shadowdark]]"
 ttrpg-source: "Shadowdark Core Rules"
 tags:
   - ttrpg/monster
+ac: 13
+hp: 28
+str: 2
+dex: 3
+con: 1
+int: 1
+wis: 1
+cha: 0
+al: C
+lv: 6
 ---
 
 _A midnight blue manta ray with a bony tail and crescent-shaped maw above its belly. It swoops through deep, lightless caverns._

@@ -5,6 +5,16 @@ tags:
   - ttrpg/monster
 aliases:
   -  Fire Dragon
+ac: 18
+hp: 80
+str: 6
+dex: 5
+con: 4
+int: 4
+wis: 4
+cha: 5
+al: C
+lv: 17
 ---
 
 _Blood-red scales cover the hide of this mighty, volcanic wyrm. Leaping flames glow at the back of its throat._

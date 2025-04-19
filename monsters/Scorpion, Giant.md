@@ -7,6 +7,16 @@ tags:
   - ttrpg/monster
 aliases:
   -  Giant Scorpion
+ac: 14
+hp: 13
+str: 2
+dex: 2
+con: 0
+int: -4
+wis: 0
+cha: -4
+al: N
+lv: 3
 ---
 
 _Chitin-plated scorpions as big as camels._

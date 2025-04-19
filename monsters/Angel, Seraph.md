@@ -5,6 +5,17 @@ tags:
   - ttrpg/monster
 aliases:
   -  Seraph Angel
+ac: 14
+armor-type: chainmail
+hp: 14
+str: 3
+dex: 1
+con: 1
+int: 2
+wis: 3
+cha: 3
+al: L
+lv: 3
 ---
 
 _Beautiful, luminous humanoids with white-feathered wings._

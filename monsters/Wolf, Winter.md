@@ -5,6 +5,16 @@ tags:
   - ttrpg/monster
 aliases:
   -  Winter Wolf
+ac: 12
+hp: 23
+str: 3
+dex: 2
+con: 1
+int: 0
+wis: 1
+cha: 0
+al: C
+lv: 5
 ---
 
 _Sinister, white-pelted wolves with piercing blue eyes. From the fey realms of eternal winter._

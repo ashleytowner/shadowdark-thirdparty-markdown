@@ -5,6 +5,16 @@ tags:
   - ttrpg/monster
 aliases:
   -  Giant Crab
+ac: 15
+hp: 24
+str: 3
+dex: 0
+con: 2
+int: -3
+wis: 0
+cha: -3
+al: N
+lv: 5
 ---
 
 _A wagon-sized, armored crab with two crushing pincers._

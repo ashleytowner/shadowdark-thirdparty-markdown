@@ -3,6 +3,16 @@ ttrpg-system: "[[Shadowdark]]"
 ttrpg-source: "Shadowdark Core Rules"
 tags:
   - ttrpg/monster
+ac: 13
+hp: 27
+str: -2
+dex: 3
+con: 0
+int: 0
+wis: 0
+cha: 4
+al: C
+lv: 6
 ---
 
 _A wavering spirit with a face contorted in rage or sadness._

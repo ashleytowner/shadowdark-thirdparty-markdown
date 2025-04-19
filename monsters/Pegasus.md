@@ -3,6 +3,16 @@ ttrpg-system: "[[Shadowdark]]"
 ttrpg-source: "Shadowdark Core Rules"
 tags:
   - ttrpg/monster
+ac: 12
+hp: 15
+str: 3
+dex: 2
+con: 2
+int: -3
+wis: 1
+cha: 0
+al: N
+lv: 3
 ---
 
 _Winged horses with noble bearings and pearly white coats._

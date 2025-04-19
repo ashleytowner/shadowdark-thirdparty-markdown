@@ -5,6 +5,16 @@ tags:
   - ttrpg/monster
 aliases:
   -  Giant Dung Beetle
+ac: 13
+hp: 10
+str: 1
+dex: -1
+con: 1
+int: -3
+wis: -1
+cha: -3
+al: N
+lv: 2
 ---
 
 _A trundling, barrel-sized beetle with a T-shaped horn._

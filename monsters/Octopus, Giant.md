@@ -5,6 +5,16 @@ tags:
   - ttrpg/monster
 aliases:
   -  Giant Octopus
+ac: 13
+hp: 23
+str: 3
+dex: 3
+con: 1
+int: -2
+wis: 1
+cha: -3
+al: N
+lv: 5
 ---
 
 _Octopi as large as sailing skiffs._

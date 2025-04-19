@@ -3,6 +3,16 @@ ttrpg-system: "[[Shadowdark]]"
 ttrpg-source: "Shadowdark Core Rules"
 tags:
   - ttrpg/monster
+ac: 11
+hp: 1
+str: -4
+dex: 1
+con: 0
+int: -4
+wis: 1
+cha: -4
+al: N
+lv: 0
 ---
 
 _Hand-sized, purple sea jellies with stinging tentacles._

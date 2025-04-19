@@ -3,6 +3,17 @@ ttrpg-system: "[[Shadowdark]]"
 ttrpg-source: "Shadowdark Core Rules"
 tags:
   - ttrpg/monster
+ac: 13
+armor-type: leather + shield
+hp: 4
+str: 1
+dex: 0
+con: 0
+int: -1
+wis: 0
+cha: -1
+al: C
+lv: 1
 ---
 
 _Hard-bitten rogue in tattered leathers and a hooded cloak._

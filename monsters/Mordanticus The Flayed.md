@@ -3,6 +3,16 @@ ttrpg-system: "[[Shadowdark]]"
 ttrpg-source: Shadowdark Core Rules
 tags:
   - ttrpg/monster
+ac: 17
+hp: 89
+str: 4
+dex: 4
+con: 4
+int: 5
+wis: 4
+cha: 5
+al: N
+lv: 19
 ---
 
 _A skinless mummy-lich wearing a crown set with nine bright gems. Once the head of the ancient, wizardly order of Gehemna, Mordanticus now lives in secret within the sanctum of Gehemna's reigning archmage. He has served as an advisor and historian for centuries, but an enduring enchantment prevents him from speaking of two topics: his origins, and the Ten-Eyed Oracle._

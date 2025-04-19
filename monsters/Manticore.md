@@ -3,6 +3,16 @@ ttrpg-system: "[[Shadowdark]]"
 ttrpg-source: "Shadowdark Core Rules"
 tags:
   - ttrpg/monster
+ac: 14
+hp: 29
+str: 4
+dex: 2
+con: 2
+int: -2
+wis: 1
+cha: -2
+al: C
+lv: 6
 ---
 
 _Human-faced lions with bat wings and cruelly spiked tails. They speak halting Thanian and love devouring human flesh._

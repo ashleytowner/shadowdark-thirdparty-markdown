@@ -3,6 +3,17 @@ ttrpg-system: "[[Shadowdark]]"
 ttrpg-source: "Shadowdark Core Rules"
 tags:
   - ttrpg/monster
+ac: 12
+armor-type: leather
+hp: 10
+str: 1
+dex: 1
+con: 1
+int: -1
+wis: 0
+cha: -1
+al: C
+lv: 2
 ---
 
 _Barbaric, opportunistic hyena- folk who range in large packs._

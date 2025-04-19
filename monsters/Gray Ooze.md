@@ -3,6 +3,16 @@ ttrpg-system: "[[Shadowdark]]"
 ttrpg-source: "Shadowdark Core Rules"
 tags:
   - ttrpg/monster
+ac: 11
+hp: 9
+str: 1
+dex: 1
+con: 0
+int: -4
+wis: -3
+cha: -4
+al: N
+lv: 2
 ---
 
 _Slick puddles the color of stone._

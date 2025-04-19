@@ -3,6 +3,16 @@ ttrpg-system: "[[Shadowdark]]"
 ttrpg-source: "Shadowdark Core Rules"
 tags:
   - ttrpg/monster
+ac: 17
+hp: 35
+str: 4
+dex: -1
+con: 4
+int: -3
+wis: 1
+cha: -3
+al: N
+lv: 7
 ---
 
 _Plodding herbivores with a wide, bony skull frill and three horns._

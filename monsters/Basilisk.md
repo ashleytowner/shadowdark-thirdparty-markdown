@@ -3,6 +3,16 @@ ttrpg-system: "[[Shadowdark]]"
 ttrpg-source: "Shadowdark Core Rules"
 tags:
   - ttrpg/monster
+ac: 14
+hp: 25
+str: 3
+dex: 1
+con: 3
+int: -3
+wis: 1
+cha: -3
+al: N
+lv: 5
 ---
 
 _Massive, muscled lizards with six legs and gray, tough hide._

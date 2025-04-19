@@ -3,6 +3,17 @@ ttrpg-system: "[[Shadowdark]]"
 ttrpg-source: "Shadowdark Core Rules"
 tags:
   - ttrpg/monster
+ac: 12
+armor-type: leather
+hp: 5
+str: 2
+dex: 1
+con: 1
+int: -2
+wis: 1
+cha: -1
+al: C
+lv: 1
 ---
 
 _A cave hominid with scraggly fur and a stone-tipped spear._

@@ -5,6 +5,17 @@ tags:
   - ttrpg/monster
 aliases:
   -  Priestess Drow
+ac: 16
+armor-type: mithral chainmail
+hp: 28
+str: 2
+dex: 3
+con: 1
+int: 3
+wis: 4
+cha: 3
+al: C
+lv: 6
 ---
 
 _A statuesque female drow with a crown of metal spider webs and an imperious gaze._

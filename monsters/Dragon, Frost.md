@@ -5,6 +5,16 @@ tags:
   - ttrpg/monster
 aliases:
   -  Frost Dragon
+ac: 17
+hp: 68
+str: 4
+dex: 3
+con: 5
+int: 3
+wis: 4
+cha: 3
+al: N
+lv: 14
 ---
 
 _Prismatic ice lines the horns, spines, and wings of this pearly dragon. Clouds of steam hiss from its ice-rimed jaws._

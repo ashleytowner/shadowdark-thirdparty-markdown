@@ -3,6 +3,16 @@ ttrpg-system: "[[Shadowdark]]"
 ttrpg-source: "Shadowdark Core Rules"
 tags:
   - ttrpg/monster
+ac: 15
+hp: 15
+str: 3
+dex: 0
+con: 2
+int: 0
+wis: 0
+cha: 0
+al: L
+lv: 3
 ---
 
 _Dwarves with bronze, metallic skin and flames in place of hair. Gifted blacksmiths._

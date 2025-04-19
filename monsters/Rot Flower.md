@@ -3,6 +3,16 @@ ttrpg-system: "[[Shadowdark]]"
 ttrpg-source: "Shadowdark Core Rules"
 tags:
   - ttrpg/monster
+ac: 9
+hp: 10
+str: 1
+dex: -3
+con: 1
+int: -4
+wis: -3
+cha: -4
+al: N
+lv: 2
 ---
 
 _Carnivorous flowers as large as a human. They reek of carrion._

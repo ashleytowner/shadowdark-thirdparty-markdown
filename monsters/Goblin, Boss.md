@@ -5,6 +5,17 @@ tags:
   - ttrpg/monster
 aliases:
   -  Boss Goblin
+ac: 14
+armor-type: chainmail
+hp: 20
+str: 2
+dex: 1
+con: 2
+int: -1
+wis: 0
+cha: 1
+al: C
+lv: 4
 ---
 
 _A scarred goblin with knotted muscles and a crown of iron._

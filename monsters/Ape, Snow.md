@@ -5,6 +5,16 @@ tags:
   - ttrpg/monster
 aliases:
   -  Snow Ape
+ac: 13
+hp: 19
+str: 3
+dex: 1
+con: 1
+int: -2
+wis: 1
+cha: 0
+al: N
+lv: 4
 ---
 
 _White-haired, carnivorous gorillas that stalk the high mountains and live in caves._

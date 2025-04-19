@@ -3,6 +3,17 @@ ttrpg-system: "[[Shadowdark]]"
 ttrpg-source: Shadowdark Core Rules
 tags:
   - ttrpg/monster
+ac: 18
+armor-type: +3 _plate mail_
+hp: 76
+str: 5
+dex: 3
+con: 4
+int: 3
+wis: 4
+cha: 5
+al: C
+lv: 16
 ---
 
 _A pale, angular woman in translucent plte mail fashioned from giant scorpion chitin. Obe-Ixx, daughter of Azarumne, rose up from the prehistoric barbarian tribes of Tal-Yool to conquer all in her path. One day, she stood at the steps of an obsidian ziggurat deep within the trackless jungle. Forty nights later, Obe-Ixx emerged as the ur-vampire, bloodlust made flesh. Her dynasty would rise and fall again and again over the coming millennia._

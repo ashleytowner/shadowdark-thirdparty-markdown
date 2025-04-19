@@ -3,6 +3,16 @@ ttrpg-system: "[[Shadowdark]]"
 ttrpg-source: "Shadowdark Core Rules"
 tags:
   - ttrpg/monster
+ac: 13
+hp: 19
+str: 2
+dex: 1
+con: 1
+int: -2
+wis: 1
+cha: -3
+al: C
+lv: 4
 ---
 
 _Black wolfhounds with red eyes and jaws dripping with flames._

@@ -3,6 +3,17 @@ ttrpg-system: "[[Shadowdark]]"
 ttrpg-source: "Shadowdark Core Rules"
 tags:
   - ttrpg/monster
+ac: 17
+armor-type: plate mail + shield
+hp: 28
+str: 3
+dex: 0
+con: 1
+int: 0
+wis: 0
+cha: 2
+al: C
+lv: 6
 ---
 
 _A knight in blackened armor riddled with cruel barbs._

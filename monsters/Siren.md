@@ -3,6 +3,16 @@ ttrpg-system: "[[Shadowdark]]"
 ttrpg-source: "Shadowdark Core Rules"
 tags:
   - ttrpg/monster
+ac: 12
+hp: 18
+str: 0
+dex: 2
+con: 0
+int: 2
+wis: 2
+cha: 4
+al: C
+lv: 4
 ---
 
 _Baleful fey with dove wings and iridescent fish scales. Their singing entrances listeners._

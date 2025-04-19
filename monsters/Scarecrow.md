@@ -3,6 +3,16 @@ ttrpg-system: "[[Shadowdark]]"
 ttrpg-source: "Shadowdark Core Rules"
 tags:
   - ttrpg/monster
+ac: 12
+hp: 15
+str: 2
+dex: 2
+con: 2
+int: 0
+wis: 0
+cha: 2
+al: C
+lv: 3
 ---
 
 _Ragged clothes and a painted burlap head stuffed with straw. Possessed by a malicious spirit._

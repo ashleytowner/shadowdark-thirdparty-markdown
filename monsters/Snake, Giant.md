@@ -5,6 +5,16 @@ tags:
   - ttrpg/monster
 aliases:
   -  Giant Snake
+ac: 12
+hp: 23
+str: 3
+dex: 2
+con: 1
+int: -2
+wis: 0
+cha: -2
+al: N
+lv: 5
 ---
 
 _An enormous, mottled serpent that can swallow a cow whole._

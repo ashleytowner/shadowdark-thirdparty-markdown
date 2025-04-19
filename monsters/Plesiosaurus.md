@@ -3,6 +3,16 @@ ttrpg-system: "[[Shadowdark]]"
 ttrpg-source: "Shadowdark Core Rules"
 tags:
   - ttrpg/monster
+ac: 13
+hp: 30
+str: 4
+dex: 3
+con: 3
+int: -3
+wis: 1
+cha: -3
+al: N
+lv: 6
 ---
 
 _Aquatic reptiles as big as elephants. Flat flippers and narrow, toothy maws on long necks._

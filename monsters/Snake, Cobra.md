@@ -7,6 +7,16 @@ tags:
   - ttrpg/monster
 aliases:
   -  Cobra Snake
+ac: 12
+hp: 4
+str: -3
+dex: 2
+con: 0
+int: -3
+wis: 0
+cha: -3
+al: N
+lv: 1
 ---
 
 _A weaving serpent with a neck hood and lethal venom._

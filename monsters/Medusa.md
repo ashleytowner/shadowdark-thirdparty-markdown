@@ -3,6 +3,16 @@ ttrpg-system: "[[Shadowdark]]"
 ttrpg-source: "Shadowdark Core Rules"
 tags:
   - ttrpg/monster
+ac: 14
+hp: 38
+str: 2
+dex: 1
+con: 2
+int: 2
+wis: 3
+cha: 4
+al: C
+lv: 8
 ---
 
 _Immortal women with coiling snakes for hair and scaled skin._

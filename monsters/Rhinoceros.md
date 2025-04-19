@@ -3,6 +3,16 @@ ttrpg-system: "[[Shadowdark]]"
 ttrpg-source: "Shadowdark Core Rules"
 tags:
   - ttrpg/monster
+ac: 14
+hp: 25
+str: 4
+dex: -1
+con: 3
+int: -3
+wis: 0
+cha: -3
+al: N
+lv: 5
 ---
 
 _Gray-skinned bulls with single nose horns. Dwell in grasslands._

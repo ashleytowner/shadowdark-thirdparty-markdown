@@ -5,6 +5,16 @@ ttrpg-source:
   - Raiders of the Hidden Temple
 tags:
   - ttrpg/monster
+ac: 12
+hp: 4
+str: -2
+dex: 2
+con: 0
+int: -2
+wis: 0
+cha: -2
+al: N
+lv: 1
 ---
 
 _Darting, orange insect-bat with four wings and needlelike beak._

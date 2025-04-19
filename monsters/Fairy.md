@@ -3,6 +3,16 @@ ttrpg-system: "[[Shadowdark]]"
 ttrpg-source: "Shadowdark Core Rules"
 tags:
   - ttrpg/monster
+ac: 13
+hp: 4
+str: -2
+dex: 3
+con: 0
+int: 1
+wis: 0
+cha: 1
+al: N
+lv: 1
 ---
 
 _Miniature fey folk with fluttering moth or butterfly wings._

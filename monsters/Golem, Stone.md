@@ -7,6 +7,16 @@ tags:
   - ttrpg/monster
 aliases:
   -  Stone Golem
+ac: 18
+hp: 40
+str: 4
+dex: -1
+con: 4
+int: -2
+wis: 0
+cha: -2
+al: N
+lv: 8
 ---
 
 _A wide-limbed, lumbering statue that shakes the ground._

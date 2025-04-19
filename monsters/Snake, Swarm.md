@@ -5,6 +5,16 @@ tags:
   - ttrpg/monster
 aliases:
   -  Swarm Snake
+ac: 12
+hp: 19
+str: -3
+dex: 2
+con: 1
+int: -3
+wis: 0
+cha: -3
+al: N
+lv: 4
 ---
 
 _A roiling wave of snakes darting and flowing across the ground._

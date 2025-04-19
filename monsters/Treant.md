@@ -3,6 +3,16 @@ ttrpg-system: "[[Shadowdark]]"
 ttrpg-source: "Shadowdark Core Rules"
 tags:
   - ttrpg/monster
+ac: 14
+hp: 38
+str: 4
+dex: -1
+con: 2
+int: 2
+wis: 3
+cha: 1
+al: N
+lv: 8
 ---
 
 _Peaceful, slow-moving trees with merry eyes and tremulous voices. They protect the forest._

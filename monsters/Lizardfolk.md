@@ -3,6 +3,17 @@ ttrpg-system: "[[Shadowdark]]"
 ttrpg-source: "Shadowdark Core Rules"
 tags:
   - ttrpg/monster
+ac: 14
+armor-type: leather + shield
+hp: 11
+str: 1
+dex: 1
+con: 2
+int: -1
+wis: 1
+cha: -2
+al: C
+lv: 2
 ---
 
 _Crocodilian humanoids with scaly faces, claws, and tails. They dwell in swamps and rivers._

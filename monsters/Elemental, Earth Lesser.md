@@ -5,6 +5,16 @@ tags:
   - ttrpg/monster
 aliases:
   -  Earth Lesser Elemental
+ac: 17
+hp: 31
+str: 5
+dex: 0
+con: 4
+int: -2
+wis: 1
+cha: -2
+al: N
+lv: 6
 ---
 
 _A thundering pillar of earth._

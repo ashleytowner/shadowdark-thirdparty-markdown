@@ -3,6 +3,16 @@ ttrpg-system: "[[Shadowdark]]"
 ttrpg-source: "Shadowdark Core Rules"
 tags:
   - ttrpg/monster
+ac: 19
+hp: 76
+str: 5
+dex: 4
+con: 4
+int: 5
+wis: 4
+cha: 7
+al: C
+lv: 16
 ---
 
 _A stunningly beautiful, horned human with burning, red eyes and a halo of seven black stars. Two stitched-up gashes weep blood from its shoulder blades._

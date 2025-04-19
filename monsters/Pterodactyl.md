@@ -3,6 +3,16 @@ ttrpg-system: "[[Shadowdark]]"
 ttrpg-source: "Shadowdark Core Rules"
 tags:
   - ttrpg/monster
+ac: 14
+hp: 20
+str: 2
+dex: 4
+con: 2
+int: -2
+wis: 1
+cha: -3
+al: N
+lv: 4
 ---
 
 _Long-beaked beasts with wide, triangular wings. Large enough to carry off a human._

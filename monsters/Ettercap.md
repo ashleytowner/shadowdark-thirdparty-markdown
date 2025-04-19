@@ -3,6 +3,16 @@ ttrpg-system: "[[Shadowdark]]"
 ttrpg-source: "Shadowdark Core Rules"
 tags:
   - ttrpg/monster
+ac: 12
+hp: 14
+str: 0
+dex: 2
+con: 1
+int: 0
+wis: 0
+cha: -1
+al: C
+lv: 3
 ---
 
 _Bipedal, eight-eyed spiderfolk with spindly legs and purple fur._

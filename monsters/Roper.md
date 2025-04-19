@@ -3,6 +3,16 @@ ttrpg-system: "[[Shadowdark]]"
 ttrpg-source: "Shadowdark Core Rules"
 tags:
   - ttrpg/monster
+ac: 14
+hp: 31
+str: 3
+dex: -2
+con: 4
+int: -1
+wis: 2
+cha: 1
+al: N
+lv: 6
 ---
 
 _Ravenous monstrosities that look like cave rocks when their single eye and maw are closed._

@@ -5,6 +5,16 @@ tags:
   - ttrpg/monster
 aliases:
   -  Desert Dragon
+ac: 17
+hp: 61
+str: 5
+dex: 3
+con: 3
+int: 4
+wis: 5
+cha: 5
+al: L
+lv: 13
 ---
 
 _The smell of ozone precedes this desert-dwelling dragon. Its dazzling scales of brass and lapis lazuli shimmer in the baking heat._

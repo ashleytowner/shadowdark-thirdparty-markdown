@@ -5,6 +5,16 @@ tags:
   - ttrpg/monster
 aliases:
   -  Night Hag
+ac: 14
+hp: 37
+str: 4
+dex: 2
+con: 1
+int: 2
+wis: 3
+cha: 3
+al: C
+lv: 8
 ---
 
 _A purple-skinned, stooped woman with stringy, white hair and a mouth full of iron teeth._

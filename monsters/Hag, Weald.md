@@ -5,6 +5,16 @@ tags:
   - ttrpg/monster
 aliases:
   -  Weald Hag
+ac: 14
+hp: 28
+str: 3
+dex: 2
+con: 1
+int: 1
+wis: 2
+cha: 3
+al: C
+lv: 6
 ---
 
 _Eyes dark as moonless nights, skin made of rotting wood, hair of tangled roots and vines._

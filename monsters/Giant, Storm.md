@@ -5,6 +5,17 @@ tags:
   - ttrpg/monster
 aliases:
   -  Storm Giant
+ac: 15
+armor-type: mithral chainmail
+hp: 58
+str: 6
+dex: 2
+con: 4
+int: 3
+wis: 4
+cha: 4
+al: L
+lv: 12
 ---
 
 _Regal titans with sea-green skin, flowing white hair, and thundering voices. They breathe water as easily as air._

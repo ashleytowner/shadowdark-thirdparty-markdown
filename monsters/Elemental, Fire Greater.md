@@ -5,6 +5,16 @@ tags:
   - ttrpg/monster
 aliases:
   -  Fire Greater Elemental
+ac: 15
+hp: 43
+str: 4
+dex: 3
+con: 3
+int: -2
+wis: 1
+cha: -2
+al: N
+lv: 9
 ---
 
 _A roaring column of flames._

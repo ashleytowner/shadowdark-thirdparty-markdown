@@ -5,6 +5,16 @@ tags:
   - ttrpg/monster
 aliases:
   -  Dire Rat
+ac: 12
+hp: 10
+str: 1
+dex: 2
+con: 1
+int: -2
+wis: 1
+cha: -2
+al: N
+lv: 2
 ---
 
 _Child-sized, savage rats bristling with bony face and spine ridges._

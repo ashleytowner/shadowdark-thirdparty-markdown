@@ -5,6 +5,16 @@ tags:
   - ttrpg/monster
 aliases:
   -  Dire Wolf
+ac: 12
+hp: 19
+str: 3
+dex: 2
+con: 1
+int: -1
+wis: 1
+cha: 0
+al: N
+lv: 4
 ---
 
 _A massive wolf with spines of black bone along its brow ridge and back._

@@ -3,6 +3,16 @@ ttrpg-system: "[[Shadowdark]]"
 ttrpg-source: "Shadowdark Core Rules"
 tags:
   - ttrpg/monster
+ac: 16
+hp: 42
+str: 4
+dex: 1
+con: 2
+int: 4
+wis: 4
+cha: 3
+al: L
+lv: 9
 ---
 
 _A winged, leonine oracle who can see into time and space and often speaks in riddles. Lives in isolated mountains._

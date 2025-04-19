@@ -5,6 +5,16 @@ ttrpg-source:
   - Doom in the Red Wastes
 tags:
   - ttrpg/monster
+ac: 14
+hp: 14
+str: 2
+dex: 2
+con: 1
+int: -2
+wis: 1
+cha: -2
+al: N
+lv: 3
 ---
 
 _Horse-sized, rust-brown insects. They burrow vast, underground warrens into the bedrock._

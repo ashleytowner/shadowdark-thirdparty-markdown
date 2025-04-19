@@ -5,6 +5,16 @@ tags:
   - ttrpg/monster
 aliases:
   -  Iron Golem
+ac: 19
+hp: 49
+str: 5
+dex: -1
+con: 4
+int: -2
+wis: 0
+cha: -2
+al: N
+lv: 10
 ---
 
 _A bulky iron suit that squeals and sparks with each step._

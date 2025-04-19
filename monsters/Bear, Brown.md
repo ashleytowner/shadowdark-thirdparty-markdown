@@ -5,6 +5,16 @@ tags:
   - ttrpg/monster
 aliases:
   -  Brown Bear
+ac: 13
+hp: 25
+str: 4
+dex: 1
+con: 3
+int: -2
+wis: 1
+cha: -2
+al: N
+lv: 5
 ---
 
 _A hulking, swaying brute with claws as long as a finger._
