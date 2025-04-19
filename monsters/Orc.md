@@ -3,7 +3,7 @@ ttrpg-system: "[[Shadowdark]]"
 ttrpg-source: "Shadowdark Core Rules"
 tags:
   - ttrpg/monster
-ac: 15
+armor-class: 15
 armor-type: chainmail + shield
 hp: 4
 str: 2
@@ -12,8 +12,8 @@ con: 0
 int: -1
 wis: 0
 cha: -1
-al: C
-lv: 1
+alignment: C
+level: 1
 ---
 
 _A tusked, tall humanoid with gray skin and pointed ears._

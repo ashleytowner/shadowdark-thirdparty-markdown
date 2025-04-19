@@ -3,7 +3,7 @@ ttrpg-system: "[[Shadowdark]]"
 ttrpg-source: "Shadowdark Core Rules"
 tags:
   - ttrpg/monster
-ac: 13
+armor-class: 13
 hp: 23
 str: 3
 dex: 3
@@ -11,8 +11,8 @@ con: 1
 int: -1
 wis: 1
 cha: -2
-al: C
-lv: 5
+alignment: C
+level: 5
 ---
 
 _Pale, horse-sized arachnids that become ghostly and intangible._

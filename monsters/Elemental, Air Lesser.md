@@ -5,7 +5,7 @@ tags:
   - ttrpg/monster
 aliases:
   -  Air Lesser Elemental
-ac: 16
+armor-class: 16
 hp: 29
 str: 3
 dex: 5
@@ -13,8 +13,8 @@ con: 2
 int: -2
 wis: 1
 cha: -2
-al: N
-lv: 6
+alignment: N
+level: 6
 ---
 
 _A howling tornado of wind._

@@ -3,7 +3,7 @@ ttrpg-system: "[[Shadowdark]]"
 ttrpg-source: "Shadowdark Core Rules"
 tags:
   - ttrpg/monster
-ac: 15
+armor-class: 15
 armor-type: leather
 hp: 38
 str: 2
@@ -12,8 +12,8 @@ con: 2
 int: 2
 wis: 3
 cha: 3
-al: C
-lv: 8
+alignment: C
+level: 8
 ---
 
 _A black-cloaked, skulking killer._

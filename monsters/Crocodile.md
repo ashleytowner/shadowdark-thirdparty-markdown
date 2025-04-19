@@ -3,7 +3,7 @@ ttrpg-system: "[[Shadowdark]]"
 ttrpg-source: "Shadowdark Core Rules"
 tags:
   - ttrpg/monster
-ac: 14
+armor-class: 14
 hp: 20
 str: 3
 dex: 1
@@ -11,8 +11,8 @@ con: 2
 int: -2
 wis: 1
 cha: -2
-al: N
-lv: 4
+alignment: N
+level: 4
 ---
 
 _Fat, scaly reptiles with stumpy legs and long, thrashing tails._

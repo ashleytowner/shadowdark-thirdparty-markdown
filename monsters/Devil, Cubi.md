@@ -9,7 +9,7 @@ aliases:
   - Cubi
 aliases:
   -  Cubi Devil
-ac: 14
+armor-class: 14
 hp: 29
 str: 2
 dex: 4
@@ -17,8 +17,8 @@ con: 2
 int: 3
 wis: 2
 cha: 5
-al: C
-lv: 6
+alignment: C
+level: 6
 ---
 
 _Entrancing humanoids with bat wings and devilish charm._

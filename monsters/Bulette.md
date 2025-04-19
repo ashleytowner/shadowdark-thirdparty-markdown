@@ -3,7 +3,7 @@ ttrpg-system: "[[Shadowdark]]"
 ttrpg-source: "Shadowdark Core Rules"
 tags:
   - ttrpg/monster
-ac: 17
+armor-class: 17
 hp: 40
 str: 5
 dex: 1
@@ -11,8 +11,8 @@ con: 4
 int: -3
 wis: 1
 cha: -2
-al: N
-lv: 8
+alignment: N
+level: 8
 ---
 
 _A hulking, shark-sized lizard with a steely, arrow-shaped carapace and a massive gullet._

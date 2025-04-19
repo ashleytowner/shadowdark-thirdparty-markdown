@@ -3,7 +3,7 @@ ttrpg-system: "[[Shadowdark]]"
 ttrpg-source: "Shadowdark Core Rules"
 tags:
   - ttrpg/monster
-ac: 10
+armor-class: 10
 hp: 5
 str: 1
 dex: 0
@@ -11,8 +11,8 @@ con: 1
 int: -3
 wis: 1
 cha: -3
-al: N
-lv: 1
+alignment: N
+level: 1
 ---
 
 _Scavenger birds with black feathers, hunched backs, and bald heads._

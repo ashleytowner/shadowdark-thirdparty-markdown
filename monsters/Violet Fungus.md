@@ -3,7 +3,7 @@ ttrpg-system: "[[Shadowdark]]"
 ttrpg-source: "Shadowdark Core Rules"
 tags:
   - ttrpg/monster
-ac: 7
+armor-class: 7
 hp: 9
 str: -3
 dex: -2
@@ -11,8 +11,8 @@ con: 0
 int: -4
 wis: -3
 cha: -4
-al: N
-lv: 2
+alignment: N
+level: 2
 ---
 
 _Child-sized, creeping fungi with neon purple caps. Their whiplike roots decompose living flesh._

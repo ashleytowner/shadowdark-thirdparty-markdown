@@ -5,7 +5,7 @@ tags:
   - ttrpg/monster
 aliases:
   -  Water Greater Elemental
-ac: 15
+armor-class: 15
 hp: 42
 str: 4
 dex: 2
@@ -13,8 +13,8 @@ con: 2
 int: -2
 wis: 1
 cha: -2
-al: N
-lv: 9
+alignment: N
+level: 9
 ---
 
 _A crashing vortex of water._

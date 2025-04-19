@@ -3,7 +3,7 @@ ttrpg-system: "[[Shadowdark]]"
 ttrpg-source: "Shadowdark Core Rules"
 tags:
   - ttrpg/monster
-ac: 15
+armor-class: 15
 armor-type: chainmail + shield
 hp: 23
 str: 1
@@ -12,8 +12,8 @@ con: 1
 int: 0
 wis: 2
 cha: 1
-al: L
-lv: 5
+alignment: L
+level: 5
 ---
 
 _A respected member of a clergy who leads holy rituals and rites._

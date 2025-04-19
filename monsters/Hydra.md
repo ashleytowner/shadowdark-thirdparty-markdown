@@ -3,7 +3,7 @@ ttrpg-system: "[[Shadowdark]]"
 ttrpg-source: "Shadowdark Core Rules"
 tags:
   - ttrpg/monster
-ac: 15
+armor-class: 15
 hp: *
 str: 5
 dex: 1
@@ -11,8 +11,8 @@ con: 2
 int: -2
 wis: 1
 cha: -2
-al: N
-lv: *
+alignment: N
+level: *
 ---
 
 _A towering, amphibious reptile with a bouquet of snake heads writhing on long necks._

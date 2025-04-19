@@ -5,7 +5,7 @@ tags:
   - ttrpg/monster
 aliases:
   -  Giant Centipede
-ac: 11
+armor-class: 11
 hp: 4
 str: -3
 dex: 1
@@ -13,8 +13,8 @@ con: 0
 int: -4
 wis: -3
 cha: -4
-al: N
-lv: 1
+alignment: N
+level: 1
 ---
 
 _Blood-red, feathery centipedes the size of a human arm. Their bite injects a burning poison that cramps muscles._

@@ -3,7 +3,7 @@ ttrpg-system: "[[Shadowdark]]"
 ttrpg-source: "Shadowdark Core Rules"
 tags:
   - ttrpg/monster
-ac: 13
+armor-class: 13
 hp: 29
 str: 2
 dex: 3
@@ -11,8 +11,8 @@ con: 2
 int: 2
 wis: 1
 cha: 0
-al: N
-lv: 6
+alignment: N
+level: 6
 ---
 
 _Intelligent creatures made of flowing air. Often bound to the bidding of evil sorcerers for their peerless tracking ability._

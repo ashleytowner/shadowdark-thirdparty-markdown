@@ -5,7 +5,7 @@ ttrpg-source:
   - Raiders of the Hidden Temple
 tags:
   - ttrpg/monster
-ac: 13
+armor-class: 13
 hp: 13
 str: 1
 dex: 1
@@ -13,8 +13,8 @@ con: 0
 int: 0
 wis: 1
 cha: 0
-al: C
-lv: 3
+alignment: C
+level: 3
 ---
 
 _Lithe, snake-headed people with cobra hoods and emerald green scales covering their bodies._

@@ -3,7 +3,7 @@ ttrpg-system: "[[Shadowdark]]"
 ttrpg-source: "Shadowdark Core Rules"
 tags:
   - ttrpg/monster
-ac: 13
+armor-class: 13
 hp: 35
 str: 4
 dex: -1
@@ -11,8 +11,8 @@ con: 4
 int: -2
 wis: 0
 cha: -3
-al: N
-lv: 7
+alignment: N
+level: 7
 ---
 
 _Stumpy, three-legged beasts with barbed tentacles and vast mouths. Drawn by rot and filth._

@@ -3,7 +3,7 @@ ttrpg-system: "[[Shadowdark]]"
 ttrpg-source: "Shadowdark Core Rules"
 tags:
   - ttrpg/monster
-ac: 12
+armor-class: 12
 hp: 20
 str: 1
 dex: 2
@@ -11,8 +11,8 @@ con: 2
 int: 1
 wis: 0
 cha: 4
-al: C
-lv: 4
+alignment: C
+level: 4
 ---
 
 _Gray, featureless humanoids that delight in sowing chaos._

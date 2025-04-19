@@ -3,7 +3,7 @@ ttrpg-system: "[[Shadowdark]]"
 ttrpg-source: "Shadowdark Core Rules"
 tags:
   - ttrpg/monster
-ac: 12
+armor-class: 12
 hp: 24
 str: 4
 dex: 0
@@ -11,8 +11,8 @@ con: 2
 int: -3
 wis: 0
 cha: -3
-al: N
-lv: 5
+alignment: N
+level: 5
 ---
 
 _Ornery river-beasts as large as cows with round, purple bodies and bulbous snouts._

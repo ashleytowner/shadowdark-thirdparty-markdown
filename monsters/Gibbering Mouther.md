@@ -3,7 +3,7 @@ ttrpg-system: "[[Shadowdark]]"
 ttrpg-source: "Shadowdark Core Rules"
 tags:
   - ttrpg/monster
-ac: 8
+armor-class: 8
 hp: 21
 str: 2
 dex: -2
@@ -11,8 +11,8 @@ con: 3
 int: -3
 wis: 0
 cha: -3
-al: N
-lv: 4
+alignment: N
+level: 4
 ---
 
 _Crawling masses of slime with dozens of screeching, lipless mouths and wet eyeballs._

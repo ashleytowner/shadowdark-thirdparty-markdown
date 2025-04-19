@@ -5,7 +5,7 @@ tags:
   - ttrpg/monster
 aliases:
   -  Erinyes Devil
-ac: 17
+armor-class: 17
 armor-type: +1 plate mail
 hp: 43
 str: 4
@@ -14,8 +14,8 @@ con: 3
 int: 4
 wis: 4
 cha: 5
-al: C
-lv: 9
+alignment: C
+level: 9
 ---
 
 _Raven-winged, resplendent beings in polished, black armor and helms with curved horns._

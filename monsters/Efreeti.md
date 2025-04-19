@@ -3,7 +3,7 @@ ttrpg-system: "[[Shadowdark]]"
 ttrpg-source: "Shadowdark Core Rules"
 tags:
   - ttrpg/monster
-ac: 15
+armor-class: 15
 hp: 43
 str: 5
 dex: 2
@@ -11,8 +11,8 @@ con: 3
 int: 3
 wis: 2
 cha: 3
-al: C
-lv: 9
+alignment: C
+level: 9
 ---
 
 _Blood-red, towering humanoids formed of lava and ash. Short, black horns and snarling grins._

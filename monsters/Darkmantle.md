@@ -3,7 +3,7 @@ ttrpg-system: "[[Shadowdark]]"
 ttrpg-source: "Shadowdark Core Rules"
 tags:
   - ttrpg/monster
-ac: 13
+armor-class: 13
 hp: 4
 str: -2
 dex: 3
@@ -11,8 +11,8 @@ con: 0
 int: -3
 wis: 0
 cha: -3
-al: N
-lv: 1
+alignment: N
+level: 1
 ---
 
 _A floating, black octopus with rows of red eyes and a webbed skirt of tentacles._

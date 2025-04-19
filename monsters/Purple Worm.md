@@ -3,7 +3,7 @@ ttrpg-system: "[[Shadowdark]]"
 ttrpg-source: "Shadowdark Core Rules"
 tags:
   - ttrpg/monster
-ac: 18
+armor-class: 18
 hp: 57
 str: 5
 dex: 1
@@ -11,8 +11,8 @@ con: 3
 int: -3
 wis: 1
 cha: -3
-al: N
-lv: 12
+alignment: N
+level: 12
 ---
 
 _A massive worm as tall as a castle keep. Has a rotating maw and is covered in purple chitin._

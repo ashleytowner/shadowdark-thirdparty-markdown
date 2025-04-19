@@ -3,7 +3,7 @@ ttrpg-system: "[[Shadowdark]]"
 ttrpg-source: "Shadowdark Core Rules"
 tags:
   - ttrpg/monster
-ac: 13
+armor-class: 13
 hp: 24
 str: 2
 dex: 0
@@ -11,8 +11,8 @@ con: 2
 int: -1
 wis: 1
 cha: -1
-al: C
-lv: 5
+alignment: C
+level: 5
 ---
 
 _Fire-colored lizardfolk with long tails. Flame-like frills run down their backs._

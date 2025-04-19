@@ -5,7 +5,7 @@ tags:
   - ttrpg/monster
 aliases:
   -  Giant Wasp
-ac: 13
+armor-class: 13
 hp: 9
 str: 1
 dex: 3
@@ -13,8 +13,8 @@ con: 0
 int: -3
 wis: 0
 cha: -3
-al: N
-lv: 2
+alignment: N
+level: 2
 ---
 
 _Man-sized wasps with glossy, yellow-striped abdomens._

@@ -5,7 +5,7 @@ ttrpg-source:
   - Doom in the Red Wastes
 tags:
   - ttrpg/monster
-ac: 15
+armor-class: 15
 armor-type: chainmail + shield
 hp: 4
 str: 1
@@ -14,8 +14,8 @@ con: 0
 int: 0
 wis: 1
 cha: 0
-al: L
-lv: 1
+alignment: L
+level: 1
 ---
 
 _A sentry equipped with sturdy weapons and armor._

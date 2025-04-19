@@ -3,7 +3,7 @@ ttrpg-system: "[[Shadowdark]]"
 ttrpg-source: "Shadowdark Core Rules"
 tags:
   - ttrpg/monster
-ac: 11
+armor-class: 11
 hp: 24
 str: 3
 dex: 1
@@ -11,8 +11,8 @@ con: 2
 int: -4
 wis: 1
 cha: -4
-al: N
-lv: 5
+alignment: N
+level: 5
 ---
 
 _A translucent cube of slime that silently mows through tunnels._

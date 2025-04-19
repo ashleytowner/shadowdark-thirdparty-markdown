@@ -3,7 +3,7 @@ ttrpg-system: "[[Shadowdark]]"
 ttrpg-source: "Shadowdark Core Rules"
 tags:
   - ttrpg/monster
-ac: 14
+armor-class: 14
 armor-type: chainmail
 hp: 15
 str: 3
@@ -12,8 +12,8 @@ con: 2
 int: 1
 wis: 0
 cha: 3
-al: C
-lv: 3
+alignment: C
+level: 3
 ---
 
 _A pale, armored undead warrior with sinister intelligence._

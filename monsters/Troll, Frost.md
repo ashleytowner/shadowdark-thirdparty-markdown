@@ -5,7 +5,7 @@ tags:
   - ttrpg/monster
 aliases:
   -  Frost Troll
-ac: 13
+armor-class: 13
 hp: 34
 str: 3
 dex: 2
@@ -13,8 +13,8 @@ con: 3
 int: -1
 wis: 0
 cha: -1
-al: C
-lv: 7
+alignment: C
+level: 7
 ---
 
 _Rime-covered trolls with blue skin and flinty, black eyes. They stalk arctic lands and frozen boreal forests._

@@ -3,7 +3,7 @@ ttrpg-system: "[[Shadowdark]]"
 ttrpg-source: "Shadowdark Core Rules"
 tags:
   - ttrpg/monster
-ac: 11
+armor-class: 11
 hp: 1
 str: -4
 dex: 1
@@ -11,8 +11,8 @@ con: 0
 int: -4
 wis: 0
 cha: -4
-al: N
-lv: 0
+alignment: N
+level: 0
 ---
 
 _Desert-dwelling arachnids with pincers and curved tail stingers._

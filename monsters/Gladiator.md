@@ -3,7 +3,7 @@ ttrpg-system: "[[Shadowdark]]"
 ttrpg-source: "Shadowdark Core Rules"
 tags:
   - ttrpg/monster
-ac: 16
+armor-class: 16
 armor-type: chainmail + shield
 hp: 15
 str: 2
@@ -12,8 +12,8 @@ con: 2
 int: 0
 wis: 0
 cha: 1
-al: N
-lv: 3
+alignment: N
+level: 3
 ---
 
 _Veteran warriors seasoned in arena fights to the death._

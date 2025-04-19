@@ -3,7 +3,7 @@ ttrpg-system: "[[Shadowdark]]"
 ttrpg-source: "Shadowdark Core Rules"
 tags:
   - ttrpg/monster
-ac: 13
+armor-class: 13
 hp: 9
 str: 0
 dex: 3
@@ -11,8 +11,8 @@ con: 0
 int: 1
 wis: 1
 cha: 1
-al: L
-lv: 2
+alignment: L
+level: 2
 ---
 
 _Ethereal, ageless fey-people infused with ancient magic._

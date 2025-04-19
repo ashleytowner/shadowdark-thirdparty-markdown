@@ -5,7 +5,7 @@ tags:
   - ttrpg/monster
 aliases:
   -  Swarm Piranha
-ac: 12
+armor-class: 12
 hp: 13
 str: -2
 dex: 2
@@ -13,8 +13,8 @@ con: 0
 int: -3
 wis: 0
 cha: -3
-al: N
-lv: 3
+alignment: N
+level: 3
 ---
 
 _A school of flat, silvery fish with vicious fangs._

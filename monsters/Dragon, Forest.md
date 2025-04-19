@@ -5,7 +5,7 @@ tags:
   - ttrpg/monster
 aliases:
   -  Forest Dragon
-ac: 16
+armor-class: 16
 hp: 58
 str: 4
 dex: 3
@@ -13,8 +13,8 @@ con: 4
 int: 3
 wis: 3
 cha: 4
-al: N
-lv: 12
+alignment: N
+level: 12
 ---
 
 _The smell of wet loam follows this dragon. Its jade scales bristle with barbed thorns._

@@ -3,7 +3,7 @@ ttrpg-system: "[[Shadowdark]]"
 ttrpg-source: "Shadowdark Core Rules"
 tags:
   - ttrpg/monster
-ac: 12
+armor-class: 12
 hp: 18
 str: 2
 dex: 2
@@ -11,8 +11,8 @@ con: 0
 int: -3
 wis: 1
 cha: -3
-al: N
-lv: 4
+alignment: N
+level: 4
 ---
 
 _Chittering, green centipedes the size of horses. Their grasping tentacles are coated in a paralytic venom._

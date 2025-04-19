@@ -5,7 +5,7 @@ tags:
   - ttrpg/monster
 aliases:
   -  Flesh Golem
-ac: 9
+armor-class: 9
 hp: 35
 str: 4
 dex: -1
@@ -13,8 +13,8 @@ con: 4
 int: -1
 wis: 1
 cha: -3
-al: N
-lv: 7
+alignment: N
+level: 7
 ---
 
 _A ghastly monstrosity made of sewn-together corpses._

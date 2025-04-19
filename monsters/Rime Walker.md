@@ -3,7 +3,7 @@ ttrpg-system: "[[Shadowdark]]"
 ttrpg-source: "Shadowdark Core Rules"
 tags:
   - ttrpg/monster
-ac: 16
+armor-class: 16
 hp: 43
 str: 4
 dex: 4
@@ -11,8 +11,8 @@ con: 3
 int: 2
 wis: 2
 cha: 2
-al: C
-lv: 9
+alignment: C
+level: 9
 ---
 
 _Human-shaped beings formed from black space ice. Their eyes are two flickering, white lights._

@@ -3,7 +3,7 @@ ttrpg-system: "[[Shadowdark]]"
 ttrpg-source: "Shadowdark Core Rules"
 tags:
   - ttrpg/monster
-ac: 13
+armor-class: 13
 hp: 47
 str: 3
 dex: 0
@@ -11,8 +11,8 @@ con: 2
 int: 3
 wis: 2
 cha: 3
-al: C
-lv: 10
+alignment: C
+level: 10
 ---
 
 _A desiccated, linen-wrapped zombie. It was created with an intricate embalming ritual used only upon the most worthy warriors or rulers._

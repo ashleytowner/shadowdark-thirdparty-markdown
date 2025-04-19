@@ -3,7 +3,7 @@ ttrpg-system: "[[Shadowdark]]"
 ttrpg-source: "Shadowdark Core Rules"
 tags:
   - ttrpg/monster
-ac: 16
+armor-class: 16
 hp: 60
 str: 3
 dex: 4
@@ -11,8 +11,8 @@ con: 2
 int: 3
 wis: 3
 cha: 3
-al: L
-lv: 13
+alignment: L
+level: 13
 ---
 
 _Huge, soaring eagles made of searing flames. Intelligent and imbued with immortal magic._

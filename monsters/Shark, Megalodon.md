@@ -5,7 +5,7 @@ tags:
   - ttrpg/monster
 aliases:
   -  Megalodon Shark
-ac: 13
+armor-class: 13
 hp: 38
 str: 5
 dex: 1
@@ -13,8 +13,8 @@ con: 2
 int: -3
 wis: 1
 cha: -3
-al: N
-lv: 8
+alignment: N
+level: 8
 ---
 
 _Primordial sharks the size of whales. Savage hunters._

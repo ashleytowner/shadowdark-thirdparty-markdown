@@ -3,7 +3,7 @@ ttrpg-system: "[[Shadowdark]]"
 ttrpg-source: "Shadowdark Core Rules"
 tags:
   - ttrpg/monster
-ac: 13
+armor-class: 13
 hp: 15
 str: 2
 dex: -1
@@ -11,8 +11,8 @@ con: 2
 int: 0
 wis: 1
 cha: 0
-al: N
-lv: 3
+alignment: N
+level: 3
 ---
 
 _Lumbering humanoids with spongy, elongated bodies and toadstools on their heads._

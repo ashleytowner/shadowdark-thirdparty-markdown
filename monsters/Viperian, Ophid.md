@@ -7,7 +7,7 @@ tags:
   - ttrpg/monster
 aliases:
   -  Ophid Viperian
-ac: 14
+armor-class: 14
 hp: 28
 str: 4
 dex: 2
@@ -15,8 +15,8 @@ con: 1
 int: 1
 wis: 1
 cha: 1
-al: C
-lv: 6
+alignment: C
+level: 6
 ---
 
 _A giant anaconda body merges into a humanoid torso with a large snake head. It wears golden torcs and strings of glittering moonstones._

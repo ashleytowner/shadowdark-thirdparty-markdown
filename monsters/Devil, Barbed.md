@@ -5,7 +5,7 @@ tags:
   - ttrpg/monster
 aliases:
   -  Barbed Devil
-ac: 13
+armor-class: 13
 hp: 14
 str: 2
 dex: 3
@@ -13,8 +13,8 @@ con: 1
 int: 1
 wis: 1
 cha: 1
-al: C
-lv: 3
+alignment: C
+level: 3
 ---
 
 _Lanky, green-mottled fiends bristling with hooked spines._

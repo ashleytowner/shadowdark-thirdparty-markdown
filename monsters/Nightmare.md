@@ -3,7 +3,7 @@ ttrpg-system: "[[Shadowdark]]"
 ttrpg-source: "Shadowdark Core Rules"
 tags:
   - ttrpg/monster
-ac: 13
+armor-class: 13
 hp: 29
 str: 3
 dex: 3
@@ -11,8 +11,8 @@ con: 2
 int: -1
 wis: 1
 cha: -2
-al: C
-lv: 6
+alignment: C
+level: 6
 ---
 
 _Black warhorses with flaming manes, hooves, and eyes._

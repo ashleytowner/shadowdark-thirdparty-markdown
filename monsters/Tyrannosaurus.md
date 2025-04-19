@@ -3,7 +3,7 @@ ttrpg-system: "[[Shadowdark]]"
 ttrpg-source: "Shadowdark Core Rules"
 tags:
   - ttrpg/monster
-ac: 13
+armor-class: 13
 hp: 44
 str: 5
 dex: 1
@@ -11,8 +11,8 @@ con: 4
 int: -3
 wis: 1
 cha: -3
-al: N
-lv: 9
+alignment: N
+level: 9
 ---
 
 _Towering, bipedal lizards with a massive head, jaws, and neck._

@@ -3,7 +3,7 @@ ttrpg-system: "[[Shadowdark]]"
 ttrpg-source: "Shadowdark Core Rules"
 tags:
   - ttrpg/monster
-ac: 16
+armor-class: 16
 hp: 47
 str: 5
 dex: 1
@@ -11,8 +11,8 @@ con: 2
 int: -3
 wis: 1
 cha: -3
-al: N
-lv: 10
+alignment: N
+level: 10
 ---
 
 _Massive, blue centipedes with neck hoods and red-hot spine spikes. Dwell in arctic climates._

@@ -3,7 +3,7 @@ ttrpg-system: "[[Shadowdark]]"
 ttrpg-source: "Shadowdark Core Rules"
 tags:
   - ttrpg/monster
-ac: 13
+armor-class: 13
 hp: 30
 str: 4
 dex: 1
@@ -11,8 +11,8 @@ con: 3
 int: -2
 wis: 2
 cha: -3
-al: N
-lv: 6
+alignment: N
+level: 6
 ---
 
 _Cantankerous bears with owl eyes, beaks, and feathers._

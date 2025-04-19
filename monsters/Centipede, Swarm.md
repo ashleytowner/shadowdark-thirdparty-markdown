@@ -5,7 +5,7 @@ tags:
   - ttrpg/monster
 aliases:
   -  Swarm Centipede
-ac: 11
+armor-class: 11
 hp: 18
 str: -3
 dex: 1
@@ -13,8 +13,8 @@ con: 0
 int: -4
 wis: -3
 cha: -4
-al: N
-lv: 4
+alignment: N
+level: 4
 ---
 
 _A crawling mass of weaving, sinuous centipedes._

@@ -5,7 +5,7 @@ tags:
   - ttrpg/monster
 aliases:
   -  Frost Giant
-ac: 14
+armor-class: 14
 armor-type: chainmail
 hp: 44
 str: 5
@@ -14,8 +14,8 @@ con: 4
 int: 2
 wis: 3
 cha: 2
-al: C
-lv: 9
+alignment: C
+level: 9
 ---
 
 _Blue-skinned warriors with broad shoulders and braided hair. They sound war horns during their frequent raids to pillage nearby settlements._

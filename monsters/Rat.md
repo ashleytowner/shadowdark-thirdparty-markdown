@@ -3,7 +3,7 @@ ttrpg-system: "[[Shadowdark]]"
 ttrpg-source: "Shadowdark Core Rules"
 tags:
   - ttrpg/monster
-ac: 10
+armor-class: 10
 hp: 1
 str: -3
 dex: 0
@@ -11,8 +11,8 @@ con: 1
 int: -3
 wis: 1
 cha: -3
-al: N
-lv: 0
+alignment: N
+level: 0
 ---
 
 _Rangy, plague-carrying rodents that infest underground places._

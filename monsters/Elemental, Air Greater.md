@@ -5,7 +5,7 @@ tags:
   - ttrpg/monster
 aliases:
   -  Air Greater Elemental
-ac: 16
+armor-class: 16
 hp: 42
 str: 3
 dex: 5
@@ -13,8 +13,8 @@ con: 2
 int: -2
 wis: 1
 cha: -2
-al: N
-lv: 9
+alignment: N
+level: 9
 ---
 
 _A howling tornado of wind._

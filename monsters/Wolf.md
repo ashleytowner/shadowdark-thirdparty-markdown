@@ -3,7 +3,7 @@ ttrpg-system: "[[Shadowdark]]"
 ttrpg-source: "Shadowdark Core Rules"
 tags:
   - ttrpg/monster
-ac: 12
+armor-class: 12
 hp: 10
 str: 2
 dex: 2
@@ -11,8 +11,8 @@ con: 1
 int: -2
 wis: 1
 cha: 0
-al: N
-lv: 2
+alignment: N
+level: 2
 ---
 
 _A giant canine with a gray pelt, yellow eyes, and dripping jaws._

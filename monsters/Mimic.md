@@ -3,7 +3,7 @@ ttrpg-system: "[[Shadowdark]]"
 ttrpg-source: "Shadowdark Core Rules"
 tags:
   - ttrpg/monster
-ac: 12
+armor-class: 12
 hp: 23
 str: 2
 dex: 0
@@ -11,8 +11,8 @@ con: 1
 int: -2
 wis: 0
 cha: -3
-al: N
-lv: 5
+alignment: N
+level: 5
 ---
 
 _Beasts that look like objects._

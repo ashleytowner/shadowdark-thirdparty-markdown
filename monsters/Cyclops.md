@@ -3,7 +3,7 @@ ttrpg-system: "[[Shadowdark]]"
 ttrpg-source: "Shadowdark Core Rules"
 tags:
   - ttrpg/monster
-ac: 11
+armor-class: 11
 armor-type: leather
 hp: 38
 str: 5
@@ -12,8 +12,8 @@ con: 2
 int: -1
 wis: -2
 cha: 0
-al: C
-lv: 8
+alignment: C
+level: 8
 ---
 
 _Reclusive, one-eyed giants towering 20' high. They live simply on remote farmlands._

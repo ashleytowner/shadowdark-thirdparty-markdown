@@ -5,7 +5,7 @@ tags:
   - ttrpg/monster
 aliases:
   -  Shaman Goblin
-ac: 12
+armor-class: 12
 armor-type: leather
 hp: 19
 str: 0
@@ -14,8 +14,8 @@ con: 1
 int: 0
 wis: 2
 cha: 1
-al: C
-lv: 4
+alignment: C
+level: 4
 ---
 
 _A swaying, chanting goblin wearing necklaces of teeth and a robe of musty rat pelts._

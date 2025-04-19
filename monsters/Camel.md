@@ -3,7 +3,7 @@ ttrpg-system: "[[Shadowdark]]"
 ttrpg-source: "Shadowdark Core Rules"
 tags:
   - ttrpg/monster
-ac: 10
+armor-class: 10
 hp: 12
 str: 3
 dex: 0
@@ -11,8 +11,8 @@ con: 3
 int: -2
 wis: 1
 cha: -3
-al: N
-lv: 2
+alignment: N
+level: 2
 ---
 
 _Ornery, tan-furred desert beasts._

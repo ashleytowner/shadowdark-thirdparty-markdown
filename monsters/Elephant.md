@@ -3,7 +3,7 @@ ttrpg-system: "[[Shadowdark]]"
 ttrpg-source: "Shadowdark Core Rules"
 tags:
   - ttrpg/monster
-ac: 14
+armor-class: 14
 hp: 34
 str: 5
 dex: 0
@@ -11,8 +11,8 @@ con: 3
 int: -2
 wis: 1
 cha: 0
-al: N
-lv: 7
+alignment: N
+level: 7
 ---
 
 _Mighty mammals with tough hide, flappy ears, and a trunk._

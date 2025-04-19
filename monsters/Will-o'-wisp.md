@@ -3,7 +3,7 @@ ttrpg-system: "[[Shadowdark]]"
 ttrpg-source: "Shadowdark Core Rules"
 tags:
   - ttrpg/monster
-ac: 13
+armor-class: 13
 hp: 10
 str: -3
 dex: 3
@@ -11,8 +11,8 @@ con: 1
 int: -1
 wis: -1
 cha: -2
-al: C
-lv: 2
+alignment: C
+level: 2
 ---
 
 _A bobbing marsh light animated by an evil spirit. It tries to lead the living into danger._

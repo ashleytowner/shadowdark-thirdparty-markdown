@@ -5,7 +5,7 @@ tags:
   - ttrpg/monster
 aliases:
   -  Clay Golem
-ac: 14
+armor-class: 14
 hp: 40
 str: 4
 dex: 0
@@ -13,8 +13,8 @@ con: 4
 int: -2
 wis: 0
 cha: -2
-al: N
-lv: 8
+alignment: N
+level: 8
 ---
 
 _A towering, faceless humanoid shaped from glistening clay._

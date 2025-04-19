@@ -5,7 +5,7 @@ tags:
   - ttrpg/monster
 aliases:
   -  Fire Lesser Elemental
-ac: 15
+armor-class: 15
 hp: 30
 str: 4
 dex: 3
@@ -13,8 +13,8 @@ con: 3
 int: -2
 wis: 1
 cha: -2
-al: N
-lv: 6
+alignment: N
+level: 6
 ---
 
 _A roaring column of flames._

@@ -3,7 +3,7 @@ ttrpg-system: "[[Shadowdark]]"
 ttrpg-source: "Shadowdark Core Rules"
 tags:
   - ttrpg/monster
-ac: 9
+armor-class: 9
 hp: 30
 str: 4
 dex: -1
@@ -11,8 +11,8 @@ con: 3
 int: -2
 wis: -2
 cha: -2
-al: C
-lv: 6
+alignment: C
+level: 6
 ---
 
 _A massive, dim-witted brute with tusks and a heavy frame. Often lords over goblins or orcs._

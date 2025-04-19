@@ -3,7 +3,7 @@ ttrpg-system: "[[Shadowdark]]"
 ttrpg-source: "Shadowdark Core Rules"
 tags:
   - ttrpg/monster
-ac: 10
+armor-class: 10
 hp: 4
 str: 0
 dex: 0
@@ -11,8 +11,8 @@ con: 0
 int: 0
 wis: 0
 cha: 0
-al: L
-lv: 1
+alignment: L
+level: 1
 ---
 
 _A commoner in worn clothes._

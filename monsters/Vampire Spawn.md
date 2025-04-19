@@ -5,7 +5,7 @@ ttrpg-source:
   - Raiders of the Hidden Temple
 tags:
   - ttrpg/monster
-ac: 13
+armor-class: 13
 armor-type: leather
 hp: 25
 str: 3
@@ -14,8 +14,8 @@ con: 3
 int: -1
 wis: 1
 cha: 2
-al: C
-lv: 5
+alignment: C
+level: 5
 ---
 
 _Lesser, feral vampires born from the bite of their vampiric sires. Bloodthirsty and savage. They rarely leave a victim alive._

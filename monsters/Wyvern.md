@@ -5,7 +5,7 @@ ttrpg-source:
   - Doom in the Red Wastes
 tags:
   - ttrpg/monster
-ac: 15
+armor-class: 15
 hp: 37
 str: 4
 dex: 2
@@ -13,8 +13,8 @@ con: 1
 int: -3
 wis: 1
 cha: -3
-al: N
-lv: 8
+alignment: N
+level: 8
 ---
 
 _Dragon-cousins with a large tail stinger, mottled lizard skin, and leathery wings._

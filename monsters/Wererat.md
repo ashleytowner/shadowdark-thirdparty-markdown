@@ -3,7 +3,7 @@ ttrpg-system: "[[Shadowdark]]"
 ttrpg-source: "Shadowdark Core Rules"
 tags:
   - ttrpg/monster
-ac: 13
+armor-class: 13
 armor-type: leather
 hp: 14
 str: 1
@@ -12,8 +12,8 @@ con: 1
 int: -1
 wis: 1
 cha: -1
-al: C
-lv: 3
+alignment: C
+level: 3
 ---
 
 _A slinking, rat-faced humanoid covered in mangy fur._

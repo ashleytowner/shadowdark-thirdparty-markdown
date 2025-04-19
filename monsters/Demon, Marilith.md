@@ -5,7 +5,7 @@ tags:
   - ttrpg/monster
 aliases:
   -  Marilith Demon
-ac: 17
+armor-class: 17
 armor-type: plate mail
 hp: 43
 str: 5
@@ -14,8 +14,8 @@ con: 3
 int: 3
 wis: 3
 cha: 4
-al: C
-lv: 9
+alignment: C
+level: 9
 ---
 
 _Hissing, armored women with six limbs and the lower bodies of giant snakes. Six whirling blades flash in their hands._

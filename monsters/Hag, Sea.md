@@ -5,7 +5,7 @@ tags:
   - ttrpg/monster
 aliases:
   -  Sea Hag
-ac: 15
+armor-class: 15
 hp: 28
 str: 2
 dex: 3
@@ -13,8 +13,8 @@ con: 1
 int: 1
 wis: 2
 cha: 2
-al: C
-lv: 6
+alignment: C
+level: 6
 ---
 
 _A green, sunken-faced woman. Seaweed hair and oozing flesh._

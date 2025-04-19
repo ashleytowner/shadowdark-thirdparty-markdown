@@ -3,7 +3,7 @@ ttrpg-system: "[[Shadowdark]]"
 ttrpg-source: "Shadowdark Core Rules"
 tags:
   - ttrpg/monster
-ac: 16
+armor-class: 16
 hp: 43
 str: 4
 dex: 1
@@ -11,8 +11,8 @@ con: 3
 int: 2
 wis: 2
 cha: 4
-al: C
-lv: 9
+alignment: C
+level: 9
 ---
 
 _Magic-wielding cobras towering ten feet high. Once a dominant species, they are now rare and reclusive, bitter to the last._

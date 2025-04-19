@@ -3,7 +3,7 @@ ttrpg-system: "[[Shadowdark]]"
 ttrpg-source: "Shadowdark Core Rules"
 tags:
   - ttrpg/monster
-ac: 12
+armor-class: 12
 hp: 14
 str: 3
 dex: 0
@@ -11,8 +11,8 @@ con: 1
 int: -2
 wis: 1
 cha: -2
-al: N
-lv: 3
+alignment: N
+level: 3
 ---
 
 _Ornery wild pig with bristly, russet hair and yellowed tusks._

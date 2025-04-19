@@ -5,7 +5,7 @@ tags:
   - ttrpg/monster
 aliases:
   -  Horned Devil
-ac: 16
+armor-class: 16
 hp: 35
 str: 5
 dex: 2
@@ -13,8 +13,8 @@ con: 4
 int: 2
 wis: 1
 cha: 2
-al: C
-lv: 7
+alignment: C
+level: 7
 ---
 
 _Iron-scaled hellions as big as ogres with weighty ram horns, lashing tails, and leathery wings. They are opportunistic and craven in battle._

@@ -3,7 +3,7 @@ ttrpg-system: "[[Shadowdark]]"
 ttrpg-source: "Shadowdark Core Rules"
 tags:
   - ttrpg/monster
-ac: 12
+armor-class: 12
 hp: 4
 str: 1
 dex: -1
@@ -11,8 +11,8 @@ con: 0
 int: -1
 wis: 2
 cha: 0
-al: L
-lv: 1
+alignment: L
+level: 1
 ---
 
 _A religious trainee who knows basic rites and rituals._

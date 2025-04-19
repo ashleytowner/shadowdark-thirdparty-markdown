@@ -5,7 +5,7 @@ tags:
   - ttrpg/monster
 aliases:
   -  Fire Giant
-ac: 15
+armor-class: 15
 armor-type: plate mail
 hp: 44
 str: 6
@@ -14,8 +14,8 @@ con: 4
 int: 1
 wis: 2
 cha: 1
-al: C
-lv: 9
+alignment: C
+level: 9
 ---
 
 _Bulky, muscled giants with coppery skin and red hair. Heavily armored in iron plate mail studded with bronze rivets._

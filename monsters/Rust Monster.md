@@ -3,7 +3,7 @@ ttrpg-system: "[[Shadowdark]]"
 ttrpg-source: "Shadowdark Core Rules"
 tags:
   - ttrpg/monster
-ac: 13
+armor-class: 13
 hp: 19
 str: 2
 dex: 3
@@ -11,8 +11,8 @@ con: 1
 int: -3
 wis: 1
 cha: -3
-al: N
-lv: 4
+alignment: N
+level: 4
 ---
 
 _A mud-brown insect as big as a wolf with two feathery antennae. Consumes metal._

@@ -3,7 +3,7 @@ ttrpg-system: "[[Shadowdark]]"
 ttrpg-source: "Shadowdark Core Rules"
 tags:
   - ttrpg/monster
-ac: 9
+armor-class: 9
 hp: 30
 str: 2
 dex: -1
@@ -11,8 +11,8 @@ con: 3
 int: -4
 wis: -3
 cha: -4
-al: N
-lv: 6
+alignment: N
+level: 6
 ---
 
 _A black, ice-cold mass of sludge._

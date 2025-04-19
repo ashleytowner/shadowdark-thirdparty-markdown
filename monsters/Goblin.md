@@ -3,7 +3,7 @@ ttrpg-system: "[[Shadowdark]]"
 ttrpg-source: "Shadowdark Core Rules"
 tags:
   - ttrpg/monster
-ac: 11
+armor-class: 11
 hp: 5
 str: 0
 dex: 1
@@ -11,8 +11,8 @@ con: 1
 int: -1
 wis: -1
 cha: -2
-al: C
-lv: 1
+alignment: C
+level: 1
 ---
 
 _A short, hairless humanoid with green skin and pointy ears._

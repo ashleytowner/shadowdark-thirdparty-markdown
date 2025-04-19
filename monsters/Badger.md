@@ -3,7 +3,7 @@ ttrpg-system: "[[Shadowdark]]"
 ttrpg-source: "Shadowdark Core Rules"
 tags:
   - ttrpg/monster
-ac: 11
+armor-class: 11
 hp: 5
 str: 2
 dex: 0
@@ -11,8 +11,8 @@ con: 1
 int: -3
 wis: 1
 cha: -2
-al: N
-lv: 1
+alignment: N
+level: 1
 ---
 
 _Fierce, clawed burrowers with black-and-white face stripes._

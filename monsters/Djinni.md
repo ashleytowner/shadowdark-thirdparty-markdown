@@ -3,7 +3,7 @@ ttrpg-system: "[[Shadowdark]]"
 ttrpg-source: "Shadowdark Core Rules"
 tags:
   - ttrpg/monster
-ac: 14
+armor-class: 14
 hp: 48
 str: 4
 dex: 4
@@ -11,8 +11,8 @@ con: 3
 int: 4
 wis: 3
 cha: 3
-al: N
-lv: 10
+alignment: N
+level: 10
 ---
 
 _Azure-blue, jovial humanoids made of air and roiling wind. Infused with potent magic._

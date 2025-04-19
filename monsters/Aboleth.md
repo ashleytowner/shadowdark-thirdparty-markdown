@@ -3,7 +3,7 @@ ttrpg-system: "[[Shadowdark]]"
 ttrpg-source: "Shadowdark Core Rules"
 tags:
   - ttrpg/monster
-ac: 16
+armor-class: 16
 hp: 39
 str: 4
 dex: -1
@@ -11,8 +11,8 @@ con: 3
 int: 4
 wis: 2
 cha: 2
-al: C
-lv: 8
+alignment: C
+level: 8
 ---
 _Enormous, antediluvian catfish covered in slime and tentacles. They hate all intelligent beings._
 

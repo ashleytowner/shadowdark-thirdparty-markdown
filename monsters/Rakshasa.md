@@ -5,7 +5,7 @@ ttrpg-source:
   - Doom in the Red Wastes
 tags:
   - ttrpg/monster
-ac: 16
+armor-class: 16
 hp: 39
 str: 1
 dex: 3
@@ -13,8 +13,8 @@ con: 3
 int: 3
 wis: 3
 cha: 4
-al: C
-lv: 8
+alignment: C
+level: 8
 ---
 
 _Demonic illusionists whose true form is of a humanlike great cat with backwards hands._

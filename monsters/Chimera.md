@@ -3,7 +3,7 @@ ttrpg-system: "[[Shadowdark]]"
 ttrpg-source: "Shadowdark Core Rules"
 tags:
   - ttrpg/monster
-ac: 16
+armor-class: 16
 hp: 49
 str: 5
 dex: 4
@@ -11,8 +11,8 @@ con: 4
 int: -3
 wis: 2
 cha: -1
-al: C
-lv: 10
+alignment: C
+level: 10
 ---
 
 _A monstrous beast with a half-goat, half-lion body, wide dragon wings, and the heads of a goat, lion, and dragon._

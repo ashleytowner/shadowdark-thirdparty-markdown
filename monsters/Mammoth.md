@@ -3,7 +3,7 @@ ttrpg-system: "[[Shadowdark]]"
 ttrpg-source: "Shadowdark Core Rules"
 tags:
   - ttrpg/monster
-ac: 15
+armor-class: 15
 hp: 44
 str: 5
 dex: 0
@@ -11,8 +11,8 @@ con: 4
 int: -2
 wis: 1
 cha: 0
-al: N
-lv: 9
+alignment: N
+level: 9
 ---
 
 _Massive, shaggy elephants with tusks that reach the ground._

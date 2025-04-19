@@ -3,7 +3,7 @@ ttrpg-system: "[[Shadowdark]]"
 ttrpg-source: "Shadowdark Core Rules"
 tags:
   - ttrpg/monster
-ac: 16
+armor-class: 16
 hp: 62
 str: 3
 dex: 1
@@ -11,8 +11,8 @@ con: 4
 int: 4
 wis: 3
 cha: 3
-al: C
-lv: 13
+alignment: C
+level: 13
 ---
 
 _A wizard who has completed a necromantic ritual to become a mighty, undead sorcerer. Its withered body is draped in moldering, silk robes, and red marshlights burn in its eyes._

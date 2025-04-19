@@ -5,7 +5,7 @@ tags:
   - ttrpg/monster
 aliases:
   -  Earth Greater Elemental
-ac: 17
+armor-class: 17
 hp: 44
 str: 5
 dex: 0
@@ -13,8 +13,8 @@ con: 4
 int: -2
 wis: 1
 cha: -2
-al: N
-lv: 9
+alignment: N
+level: 9
 ---
 
 _A thundering pillar of earth._

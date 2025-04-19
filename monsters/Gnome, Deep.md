@@ -5,7 +5,7 @@ tags:
   - ttrpg/monster
 aliases:
   -  Deep Gnome
-ac: 14
+armor-class: 14
 armor-type: leather + shield
 hp: 14
 str: 2
@@ -14,8 +14,8 @@ con: 1
 int: 1
 wis: 1
 cha: 1
-al: L
-lv: 3
+alignment: L
+level: 3
 ---
 
 _Gray-skinned, white-haired fey the size of halflings. They hunt for gems and rare cave flora._

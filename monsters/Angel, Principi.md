@@ -5,7 +5,7 @@ tags:
   - ttrpg/monster
 aliases:
   -  Principi Angel
-ac: 16
+armor-class: 16
 armor-type: +1 plate mail
 hp: 53
 str: 4
@@ -14,8 +14,8 @@ con: 4
 int: 4
 wis: 4
 cha: 4
-al: L
-lv: 11
+alignment: L
+level: 11
 ---
 
 _Serene humans sculpted from alabaster. Golden orbs for eyes._

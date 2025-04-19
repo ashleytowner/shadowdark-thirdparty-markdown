@@ -5,7 +5,7 @@ tags:
   - ttrpg/monster
 aliases:
   -  Swamp Dragon
-ac: 16
+armor-class: 16
 hp: 58
 str: 5
 dex: 3
@@ -13,8 +13,8 @@ con: 4
 int: 4
 wis: 3
 cha: 3
-al: C
-lv: 12
+alignment: C
+level: 12
 ---
 
 _This black, wingless beast slithers through dank swamps._

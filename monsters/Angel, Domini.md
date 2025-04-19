@@ -5,7 +5,7 @@ tags:
   - ttrpg/monster
 aliases:
   -  Domini Angel
-ac: 17
+armor-class: 17
 armor-type: plate mail + shield
 hp: 42
 str: 4
@@ -14,8 +14,8 @@ con: 2
 int: 3
 wis: 4
 cha: 4
-al: L
-lv: 9
+alignment: L
+level: 9
 ---
 
 _Winged, flawless humans glowing with bronze sunlight._

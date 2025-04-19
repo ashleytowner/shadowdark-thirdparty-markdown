@@ -5,7 +5,7 @@ tags:
   - ttrpg/monster
 aliases:
   -  Giant Bat
-ac: 12
+armor-class: 12
 hp: 9
 str: -1
 dex: 2
@@ -13,8 +13,8 @@ con: 0
 int: -3
 wis: 1
 cha: -3
-al: N
-lv: 2
+alignment: N
+level: 2
 ---
 
 _Leathery, eagle-sized mammal with a taste for flesh._

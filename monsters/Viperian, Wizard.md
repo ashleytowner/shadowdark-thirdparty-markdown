@@ -7,7 +7,7 @@ tags:
   - ttrpg/monster
 aliases:
   -  Wizard Viperian
-ac: 13
+armor-class: 13
 hp: 37
 str: 0
 dex: 1
@@ -15,8 +15,8 @@ con: 0
 int: 3
 wis: 1
 cha: 1
-al: C
-lv: 8
+alignment: C
+level: 8
 ---
 
 _Thin viperians with scales tinged in black. They wear silk robes and silver, serpentine jewelry._

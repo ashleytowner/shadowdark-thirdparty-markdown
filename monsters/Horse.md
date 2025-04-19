@@ -3,7 +3,7 @@ ttrpg-system: "[[Shadowdark]]"
 ttrpg-source: "Shadowdark Core Rules"
 tags:
   - ttrpg/monster
-ac: 11
+armor-class: 11
 hp: 11
 str: 3
 dex: 1
@@ -11,8 +11,8 @@ con: 2
 int: -3
 wis: 1
 cha: -2
-al: N
-lv: 2
+alignment: N
+level: 2
 ---
 
 _Powerful, swift herd animals that roam open plains._

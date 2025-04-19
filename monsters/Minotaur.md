@@ -3,7 +3,7 @@ ttrpg-system: "[[Shadowdark]]"
 ttrpg-source: "Shadowdark Core Rules"
 tags:
   - ttrpg/monster
-ac: 14
+armor-class: 14
 armor-type: chainmail
 hp: 34
 str: 4
@@ -12,8 +12,8 @@ con: 3
 int: 1
 wis: 2
 cha: 1
-al: C
-lv: 7
+alignment: C
+level: 7
 ---
 
 _Ferocious bull-men with hooves and curved horns. They live in mazelike tunnels._

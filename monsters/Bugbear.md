@@ -3,7 +3,7 @@ ttrpg-system: "[[Shadowdark]]"
 ttrpg-source: "Shadowdark Core Rules"
 tags:
   - ttrpg/monster
-ac: 13
+armor-class: 13
 armor-type: leather + shield
 hp: 14
 str: 3
@@ -12,8 +12,8 @@ con: 1
 int: -1
 wis: 0
 cha: -2
-al: C
-lv: 3
+alignment: C
+level: 3
 ---
 
 _Brutish, bat-eared goblinoids covered in brown fur._

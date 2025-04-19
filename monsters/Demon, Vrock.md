@@ -5,7 +5,7 @@ tags:
   - ttrpg/monster
 aliases:
   -  Vrock Demon
-ac: 14
+armor-class: 14
 hp: 24
 str: 2
 dex: 2
@@ -13,8 +13,8 @@ con: 2
 int: -1
 wis: 1
 cha: 0
-al: C
-lv: 5
+alignment: C
+level: 5
 ---
 
 _Wagon-sized, filthy vultures with four limbs, midnight-blue skin, and a rash of mangy feathers._

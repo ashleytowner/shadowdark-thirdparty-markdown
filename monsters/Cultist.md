@@ -3,7 +3,7 @@ ttrpg-system: "[[Shadowdark]]"
 ttrpg-source: "Shadowdark Core Rules"
 tags:
   - ttrpg/monster
-ac: 14
+armor-class: 14
 armor-type: chainmail + shield
 hp: 9
 str: 1
@@ -12,8 +12,8 @@ con: 0
 int: -1
 wis: 2
 cha: 0
-al: C
-lv: 2
+alignment: C
+level: 2
 ---
 
 _A cloaked, wild-eyed zealot chanting the guttural prayers of a dark god._

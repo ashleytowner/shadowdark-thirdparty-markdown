@@ -3,7 +3,7 @@ ttrpg-system: "[[Shadowdark]]"
 ttrpg-source: "Shadowdark Core Rules"
 tags:
   - ttrpg/monster
-ac: 11
+armor-class: 11
 hp: 14
 str: 2
 dex: 1
@@ -11,8 +11,8 @@ con: 1
 int: -2
 wis: 1
 cha: -2
-al: C
-lv: 3
+alignment: C
+level: 3
 ---
 
 _Bat-faced wolves that speak Goblin and often serve as war mounts for goblinkind._

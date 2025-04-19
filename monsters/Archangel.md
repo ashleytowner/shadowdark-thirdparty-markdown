@@ -3,7 +3,7 @@ ttrpg-system: "[[Shadowdark]]"
 ttrpg-source: "Shadowdark Core Rules"
 tags:
   - ttrpg/monster
-ac: 18
+armor-class: 18
 armor-type: +3 plate mail
 hp: 76
 str: 5
@@ -12,8 +12,8 @@ con: 4
 int: 4
 wis: 5
 cha: 5
-al: L
-lv: 16
+alignment: L
+level: 16
 ---
 
 _A radiant being with a crown of fire, snowy wings, golden armor, and a blazing greatsword._

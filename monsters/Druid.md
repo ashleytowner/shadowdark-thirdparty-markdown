@@ -3,7 +3,7 @@ ttrpg-system: "[[Shadowdark]]"
 ttrpg-source: "Shadowdark Core Rules"
 tags:
   - ttrpg/monster
-ac: 11
+armor-class: 11
 hp: 31
 str: 0
 dex: 1
@@ -11,8 +11,8 @@ con: 0
 int: 4
 wis: 3
 cha: 0
-al: N
-lv: 7
+alignment: N
+level: 7
 ---
 
 _A wizard of the wilds holding a knotted staff and wearing a mossy cloak of deep viridian._

@@ -5,7 +5,7 @@ tags:
   - ttrpg/monster
 aliases:
   -  Giant Manta Ray
-ac: 13
+armor-class: 13
 hp: 37
 str: 3
 dex: 3
@@ -13,8 +13,8 @@ con: 1
 int: -2
 wis: 1
 cha: -3
-al: N
-lv: 8
+alignment: N
+level: 8
 ---
 
 _Swooping manta rays as large as longboats. Gentle and intelligent enough to be trained._

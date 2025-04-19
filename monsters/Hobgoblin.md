@@ -3,7 +3,7 @@ ttrpg-system: "[[Shadowdark]]"
 ttrpg-source: "Shadowdark Core Rules"
 tags:
   - ttrpg/monster
-ac: 15
+armor-class: 15
 armor-type: chainmail + shield
 hp: 10
 str: 3
@@ -12,8 +12,8 @@ con: 1
 int: 2
 wis: 1
 cha: 1
-al: C
-lv: 2
+alignment: C
+level: 2
 ---
 
 _A sturdy, tall goblin with russet skin. Militant and strategic._

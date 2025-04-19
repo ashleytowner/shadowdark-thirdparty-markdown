@@ -3,7 +3,7 @@ ttrpg-system: "[[Shadowdark]]"
 ttrpg-source: "Shadowdark Core Rules"
 tags:
   - ttrpg/monster
-ac: 12
+armor-class: 12
 hp: 14
 str: -2
 dex: 2
@@ -11,8 +11,8 @@ con: 1
 int: -2
 wis: 0
 cha: -2
-al: C
-lv: 3
+alignment: C
+level: 3
 ---
 
 _A gray-skinned, gaunt creature with four ropy limbs tipped in sucker-lined claws._

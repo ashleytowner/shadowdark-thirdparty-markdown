@@ -3,7 +3,7 @@ ttrpg-system: "[[Shadowdark]]"
 ttrpg-source: "Shadowdark Core Rules"
 tags:
   - ttrpg/monster
-ac: 13
+armor-class: 13
 armor-type: leather
 hp: 13
 str: 0
@@ -12,8 +12,8 @@ con: 0
 int: 0
 wis: 0
 cha: 1
-al: N
-lv: 3
+alignment: N
+level: 3
 ---
 
 _A cat burglar in a black cloak._

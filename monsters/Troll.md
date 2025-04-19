@@ -3,7 +3,7 @@ ttrpg-system: "[[Shadowdark]]"
 ttrpg-source: "Shadowdark Core Rules"
 tags:
   - ttrpg/monster
-ac: 12
+armor-class: 12
 hp: 24
 str: 3
 dex: 2
@@ -11,8 +11,8 @@ con: 2
 int: -1
 wis: 0
 cha: -1
-al: C
-lv: 5
+alignment: C
+level: 5
 ---
 
 _Green, lanky giants with warty skin and territorial rage. Lair in deep forests and swamps._

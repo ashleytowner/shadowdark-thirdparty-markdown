@@ -3,7 +3,7 @@ ttrpg-system: "[[Shadowdark]]"
 ttrpg-source: "Shadowdark Core Rules"
 tags:
   - ttrpg/monster
-ac: 14
+armor-class: 14
 hp: 20
 str: 3
 dex: -2
@@ -11,8 +11,8 @@ con: 2
 int: -3
 wis: 0
 cha: -3
-al: N
-lv: 4
+alignment: N
+level: 4
 ---
 
 _Fetid piles of slimy vegetation animated to life by lightning._

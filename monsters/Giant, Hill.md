@@ -5,7 +5,7 @@ tags:
   - ttrpg/monster
 aliases:
   -  Hill Giant
-ac: 11
+armor-class: 11
 armor-type: leather
 hp: 34
 str: 4
@@ -14,8 +14,8 @@ con: 3
 int: -2
 wis: -2
 cha: -2
-al: C
-lv: 7
+alignment: C
+level: 7
 ---
 
 _Fleshy hulks with leathery skin and broad, sloping foreheads. Cruel, boorish, and dim-witted._

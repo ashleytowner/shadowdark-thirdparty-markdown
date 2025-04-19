@@ -5,7 +5,7 @@ tags:
   - ttrpg/monster
 aliases:
   -  Dretch Demon
-ac: 12
+armor-class: 12
 hp: 11
 str: 2
 dex: 0
@@ -13,8 +13,8 @@ con: 2
 int: -2
 wis: -1
 cha: -3
-al: C
-lv: 2
+alignment: C
+level: 2
 ---
 
 _Green, pig-faced demons with thick claws and an oily stench._

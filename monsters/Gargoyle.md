@@ -3,7 +3,7 @@ ttrpg-system: "[[Shadowdark]]"
 ttrpg-source: "Shadowdark Core Rules"
 tags:
   - ttrpg/monster
-ac: 16
+armor-class: 16
 hp: 20
 str: 3
 dex: 1
@@ -11,8 +11,8 @@ con: 2
 int: 0
 wis: 1
 cha: -1
-al: C
-lv: 4
+alignment: C
+level: 4
 ---
 
 _Leering, winged fiends that look like stone statues. They can hold perfectly still for long stretches of time._

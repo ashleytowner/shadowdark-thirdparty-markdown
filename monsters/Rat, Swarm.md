@@ -5,7 +5,7 @@ tags:
   - ttrpg/monster
 aliases:
   -  Swarm Rat
-ac: 10
+armor-class: 10
 hp: 28
 str: -3
 dex: 0
@@ -13,8 +13,8 @@ con: 1
 int: -3
 wis: 1
 cha: -3
-al: N
-lv: 6
+alignment: N
+level: 6
 ---
 
 _A screeching tidal wave of clawing and biting rats._

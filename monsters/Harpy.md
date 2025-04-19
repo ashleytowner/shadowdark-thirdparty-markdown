@@ -3,7 +3,7 @@ ttrpg-system: "[[Shadowdark]]"
 ttrpg-source: "Shadowdark Core Rules"
 tags:
   - ttrpg/monster
-ac: 13
+armor-class: 13
 hp: 14
 str: 1
 dex: 3
@@ -11,8 +11,8 @@ con: 1
 int: 0
 wis: 0
 cha: 1
-al: C
-lv: 3
+alignment: C
+level: 3
 ---
 
 _Horrific, winged women with vulture-like lower bodies. They keen a hypnotic song._

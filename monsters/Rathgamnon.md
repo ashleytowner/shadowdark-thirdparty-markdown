@@ -3,7 +3,7 @@ ttrpg-system: "[[Shadowdark]]"
 ttrpg-source: Shadowdark Core Rules
 tags:
   - ttrpg/monster
-ac: 17
+armor-class: 17
 hp: 89
 str: 5
 dex: 3
@@ -11,8 +11,8 @@ con: 4
 int: 5
 wis: 6
 cha: 5
-al: L
-lv: 19
+alignment: L
+level: 19
 ---
 
 *A pearl-white lion with feathered wings that stands twenty feet*

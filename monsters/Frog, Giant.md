@@ -5,7 +5,7 @@ tags:
   - ttrpg/monster
 aliases:
   -  Giant Frog
-ac: 12
+armor-class: 12
 hp: 10
 str: 2
 dex: 2
@@ -13,8 +13,8 @@ con: 1
 int: -3
 wis: 0
 cha: -3
-al: N
-lv: 2
+alignment: N
+level: 2
 ---
 
 _Human-sized frogs with warty skin and long, sticky tongues._
