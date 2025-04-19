@@ -4,6 +4,9 @@ ttrpg-source:
   - "Shadowdark Core Rules"
 tags:
   - "ttrpg/spell"
+tier: 2
+duration: Focus
+range: Far
 ---
 *Tier 2, wizard*
 

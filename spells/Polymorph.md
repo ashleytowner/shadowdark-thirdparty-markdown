@@ -5,6 +5,9 @@ ttrpg-source:
   - "Cursed Scroll 1: Diablerie!"
 tags:
   - "ttrpg/spell"
+tier: 4
+duration: 10 rounds
+range: Close
 ---
 *Tier 4, wizard*
 

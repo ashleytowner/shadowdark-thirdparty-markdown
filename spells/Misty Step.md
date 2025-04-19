@@ -4,6 +4,9 @@ ttrpg-source:
   - "Shadowdark Core Rules"
 tags:
   - "ttrpg/spell"
+tier: 2
+duration: Instant
+range: Self
 ---
 *Tier 2, wizard*
 

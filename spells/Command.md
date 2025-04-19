@@ -4,6 +4,9 @@ ttrpg-source:
   - "Shadowdark Core Rules"
 tags:
   - "ttrpg/spell"
+tier: 3
+duration: Focus
+range: Far
 ---
 *Tier 3, priest*
 

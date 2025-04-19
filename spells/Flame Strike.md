@@ -4,6 +4,9 @@ ttrpg-source:
   - "Shadowdark Core Rules"
 tags:
   - "ttrpg/spell"
+tier: 4
+duration: Instant
+range: Far
 ---
 *Tier 4, priest*
 

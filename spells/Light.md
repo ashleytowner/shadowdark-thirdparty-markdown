@@ -4,6 +4,9 @@ ttrpg-source:
   - "Shadowdark Core Rules"
 tags:
   - "ttrpg/spell"
+tier: 1
+duration: 1 hour real time
+range: Close
 ---
 *Tier 1, priest, wizard*
 

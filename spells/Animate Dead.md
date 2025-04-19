@@ -4,6 +4,9 @@ ttrpg-source:
   - "Shadowdark Core Rules"
 tags:
   - "ttrpg/spell"
+tier: 3
+duration: 1 day
+range: Close
 ---
 *Tier 3, wizard*
 

@@ -5,6 +5,9 @@ ttrpg-source:
   - "Cursed Scroll 1: Diablerie!"
 tags:
   - "ttrpg/spell"
+tier: 1
+duration: 1d8 days
+range: Near
 ---
 *Tier 1, wizard*
 

@@ -4,6 +4,9 @@ ttrpg-source:
   - "Shadowdark Core Rules"
 tags:
   - "ttrpg/spell"
+tier: 4
+duration: 5 rounds
+range: Near
 ---
 *Tier 4, wizard*
 

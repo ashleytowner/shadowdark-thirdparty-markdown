@@ -5,6 +5,9 @@ ttrpg-source:
   - "Cursed Scroll 1: Diablerie!"
 tags:
   - "ttrpg/spell"
+tier: 2
+duration: Instant
+range: Self
 ---
 *Tier 2, priest*
 

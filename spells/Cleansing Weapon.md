@@ -4,6 +4,9 @@ ttrpg-source:
   - "Shadowdark Core Rules"
 tags:
   - "ttrpg/spell"
+tier: 2
+duration: 5 rounds
+range: Close
 ---
 *Tier 2, priest*
 
