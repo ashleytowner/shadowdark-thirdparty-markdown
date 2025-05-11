@@ -4,7 +4,7 @@ ttrpg-source: Shadowdark Core Rules
 tags:
   - ttrpg/monster
 armor-class: 18
-armor-type: +3 _plate mail_
+armor-type: +3 plate mail
 hp: 76
 str: 5
 dex: 3
@@ -29,5 +29,7 @@ _A pale, angular woman in translucent plte mail fashioned from giant scorpion ch
 **Charm.** One humanoid target who can see Obe-Ixx within near, DC 15 CHA or under Obe-Ixx's control for 1d4 days.
 
 **Dire Shapechange.** In place of attacks, turn into a giant bat, dire wolf, or back into regular form.
+
 **Moonbite Properties.** +2 _greatsword_, thrown weapon, returns after being thrown. Spells to heal damage it inflicts are DC 15 to cast.
+
 **Ur-Vampire.** Must sleep in sarcophagus at least once per moon cycle or loses 2d8 HP per day that cannot heal until sleeping in sacrophagus. Takes 3d8 damage each round while in direct sunlight. Cannot be killed unless pierced through heart while at 0 HP with a wooden stake carved from a tree from the Tal-Yool jungle.
