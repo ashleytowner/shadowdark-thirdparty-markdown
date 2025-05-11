@@ -1,0 +1,20 @@
+---
+ttrpg-system: "[[Shadowdark]]"
+ttrpg-source:
+  - Shadowdark Core Rules
+tags:
+  - ttrpg/spell
+Spell Type: Int
+duration: Instant
+range: Near
+tier: 5
+---
+**Tier**: 5
+
+**Duration:** Instant
+
+**Range:** Near
+
+**DC/Spell Type:** Int DC 15
+
+Learn the *True Name* of target.
