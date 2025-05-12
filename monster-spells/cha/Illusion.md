@@ -5,7 +5,7 @@ ttrpg-source:
 tags:
   - ttrpg/spell
   - ttrpg/monster-spell
-spell-type: Cha
+spell-ability: Cha
 duration: Permanent
 range: Near
 tier: 1
@@ -16,6 +16,6 @@ class:
 
 **Duration:** Lasts until dismissed. 
 **Range:** Near
-**DC/Spell Type:** Cha DC 11
+**Ability:** Cha
 
 Create a convincing visual and/ or auditory illusion within near. Lasts until dismissed. 

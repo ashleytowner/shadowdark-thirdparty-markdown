@@ -5,7 +5,7 @@ ttrpg-source:
 tags:
   - ttrpg/spell
   - ttrpg/monster-spell
-spell-type: Int
+spell-ability: Int
 duration: Instant
 range: Near
 tier: 3
@@ -16,6 +16,6 @@ class:
 
 **Duration:** Instant
 **Range:** Near
-**DC/Spell Type:** Int DC 13
+**Ability:** Int
 
 Fills a near-sized cube extending from druid. Creatures within are thrown 2d20 feet in a random direction.

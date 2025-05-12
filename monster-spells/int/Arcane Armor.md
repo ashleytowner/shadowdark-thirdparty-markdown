@@ -5,7 +5,7 @@ ttrpg-source:
 tags:
   - ttrpg/spell
   - ttrpg/monster-spell
-spell-type: Int
+spell-ability: Int
 duration: 2d4 rounds
 range: Self
 tier: 2
@@ -16,6 +16,6 @@ class:
 
 **Duration:** 2d4 rounds
 **Range:** Self
-**DC/Spell Type:** Int DC 12
+**Ability:** Int
 
 AC 16 for 2d4 rounds.

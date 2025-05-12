@@ -7,7 +7,7 @@ tags:
   - ttrpg/monster-spell
 duration: Instant
 range: Far
-spell-type: Int
+spell-ability: Int
 tier: 2
 class:
   - monster
@@ -18,6 +18,6 @@ class:
 
 **Range:** Far
 
-**DC/Type:** Int 12
+**Ability:** Int
 
 End one spell within far.

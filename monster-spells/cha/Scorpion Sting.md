@@ -5,7 +5,7 @@ ttrpg-source:
 tags:
   - ttrpg/spell
   - ttrpg/monster-spell
-spell-type: Cha
+spell-ability: Cha
 duration: Instant
 range: Near
 tier: 1
@@ -16,6 +16,6 @@ class:
 
 **Duration:** Instant
 **Range:** Near
-**DC/Spell Type:** Cha DC 11
+**Ability:** Cha
 
 Near range, one target. 1d6 damage and target has DISADV on next attack roll or check.

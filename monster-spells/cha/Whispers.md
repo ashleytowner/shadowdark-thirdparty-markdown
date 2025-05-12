@@ -5,7 +5,7 @@ ttrpg-source:
 tags:
   - ttrpg/spell
   - ttrpg/monster-spell
-spell-type: Cha
+spell-ability: Cha
 duration: 1d4 rounds
 range: Near
 tier: 2
@@ -16,6 +16,6 @@ class:
 
 **Duration:** 1d4
 **Range:** Near
-**DC/Spell Type:** Cha DC 12
+**Ability:** Cha
 
 Hostile spells cast on one target in near are DC 9 for 1d4 rounds.

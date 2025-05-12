@@ -5,7 +5,7 @@ ttrpg-source:
 tags:
   - ttrpg/spell
   - ttrpg/monster-spell
-spell-type: Wis
+spell-ability: Wis
 duration: Instant
 range: Far
 tier: 3
@@ -16,6 +16,6 @@ class:
 
 **Duration:** 
 **Range:** Far
-**DC/Spell Type:** Wis DC 13
+**Ability:** Wis
 
 One target in far takes 5d8 damage.

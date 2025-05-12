@@ -5,7 +5,7 @@ ttrpg-source:
 tags:
   - ttrpg/spell
   - ttrpg/monster-spell
-spell-type: Cha
+spell-ability: Cha
 duration: Focus
 range: Near
 tier: 3
@@ -16,6 +16,6 @@ class:
 
 **Duration:** Focus
 **Range:** Near
-**DC/Spell Type:** Cha DC 13
+**Ability:** Cha
 
 One target in near range who can see naga is helplessly stupefied for duration. 

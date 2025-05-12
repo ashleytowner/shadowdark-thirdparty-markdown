@@ -5,7 +5,7 @@ ttrpg-source:
 tags:
   - ttrpg/spell
   - ttrpg/monster-spell
-spell-type: Int
+spell-ability: Int
 duration: 5 rounds
 range: Near
 tier: 4
@@ -16,6 +16,6 @@ class:
 
 **Duration:** 5 rounds
 **Range:** Near
-**DC/Spell Type:** Int DC 14
+**Ability:** Int
 
 Summon a loyal brown bear that appears within near. It stays for 5 rounds.

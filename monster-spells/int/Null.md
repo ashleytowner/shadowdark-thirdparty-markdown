@@ -5,7 +5,7 @@ ttrpg-source:
 tags:
   - ttrpg/spell
   - ttrpg/monster-spell
-spell-type: Int
+spell-ability: Int
 duration: 1d4 rounds
 range: Self
 tier: 4
@@ -16,6 +16,6 @@ class:
 
 **Duration:** 1d4 Rounds
 **Range:** Self
-**DC/Spell Type:** Int DC 14
+**Ability:** Int
 
 Hostile spells targeting lich are DC 18 to cast. Lasts 1d4 rounds. 

@@ -5,7 +5,7 @@ ttrpg-source:
 tags:
   - ttrpg/spell
   - ttrpg/monster-spell
-spell-type: Cha
+spell-ability: Cha
 duration: 1 day
 range: Close
 tier: 12
@@ -16,6 +16,6 @@ class:
 
 **Duration:** 1 Day
 **Range:** Close
-**DC/Spell Type:** Cha DC 12
+**Ability:** Cha
 
 One small object or small group of similar objects. Turn objects into silver or gold pieces. Lasts 1 day. 

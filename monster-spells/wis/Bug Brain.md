@@ -5,7 +5,7 @@ ttrpg-source:
 tags:
   - ttrpg/spell
   - ttrpg/monster-spell
-spell-type: Wis
+spell-ability: Wis
 duration: 1d4 rounds
 range: Near
 tier: 3
@@ -16,6 +16,6 @@ class:
 
 **Duration:** 1d4 rounds
 **Range:** Near
-**DC/Spell Type:** Wis DC 13
+**Ability:** Wis
 
 Near range, one target. Target's INT drops to 1 for 1d4 rounds. 

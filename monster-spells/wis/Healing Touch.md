@@ -5,7 +5,7 @@ ttrpg-source:
 tags:
   - ttrpg/spell
   - ttrpg/monster-spell
-spell-type: Wis
+spell-ability: Wis
 duration: Instant
 range: Close
 tier: 1
@@ -16,6 +16,6 @@ class:
 
 **Duration:** Instant
 **Range:** Close
-**DC/Spell Type:** Wis DC 11
+**Ability:** Wis
 
 Heal one creature within close for 1d4 HP.

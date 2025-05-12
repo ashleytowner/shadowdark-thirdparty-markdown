@@ -5,7 +5,7 @@ ttrpg-source:
 tags:
   - ttrpg/spell
   - ttrpg/monster-spell
-spell-type: Cha
+spell-ability: Cha
 duration: Instant
 range: Near
 tier: 4
@@ -16,6 +16,6 @@ class:
 
 **Duration:** Instant
 **Range:** Near
-**DC/Spell Type:** Cha DC 14
+**Ability:** Cha
 
 One target in near takes 3d8 damage. 

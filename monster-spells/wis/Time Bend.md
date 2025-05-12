@@ -5,7 +5,7 @@ ttrpg-source:
 tags:
   - ttrpg/spell
   - ttrpg/monster-spell
-spell-type: Wis
+spell-ability: Wis
 duration: 1d4 rounds
 range: Near
 tier: 4
@@ -16,6 +16,6 @@ class:
 
 **Duration:** 1d4 rounds
 **Range:** Near
-**DC/Spell Type:** Wis DC 14
+**Ability:** Wis
 
 One target in near frozen in time for 1d4 rounds. 

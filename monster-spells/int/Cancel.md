@@ -5,7 +5,7 @@ ttrpg-source:
 tags:
   - ttrpg/spell
   - ttrpg/monster-spell
-spell-type: Int
+spell-ability: Int
 duration: Instant
 range: Near
 tier: 2
@@ -16,6 +16,6 @@ class:
 
 **Duration:** Instant
 **Range:** Near
-**DC/Spell Type:** Int DC 12
+**Ability:** Int
 
 End one spell affecting a target within near. 

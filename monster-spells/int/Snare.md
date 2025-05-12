@@ -5,7 +5,7 @@ ttrpg-source:
 tags:
   - ttrpg/spell
   - ttrpg/monster-spell
-spell-type: Int
+spell-ability: Int
 duration: Focus
 range: Near
 tier: 3
@@ -16,6 +16,6 @@ class:
 
 **Duration:** Focus
 **Range:** Near
-**DC/Spell Type:** Int DC 13
+**Ability:** Int
 
 One humanoid target within near paralyzed for duration.

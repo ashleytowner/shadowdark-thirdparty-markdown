@@ -5,7 +5,7 @@ ttrpg-source:
 tags:
   - ttrpg/spell
   - ttrpg/monster-spell
-spell-type: Cha
+spell-ability: Cha
 duration: 1d4 rounds
 range: Near
 tier: 2
@@ -16,6 +16,6 @@ class:
 
 **Duration:** 1d4 Rounds
 **Range:** Near
-**DC/Spell Type:** Cha DC 12
+**Ability:** Cha
 
 A spider swarm appears within near. Stays 1d4 rounds. Follows sorcerer's commands.

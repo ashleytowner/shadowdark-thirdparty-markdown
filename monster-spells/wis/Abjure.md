@@ -5,7 +5,7 @@ ttrpg-source:
 tags:
   - ttrpg/spell
   - ttrpg/monster-spell
-spell-type: Wis
+spell-ability: Wis
 duration: Instant
 range: Self
 tier: 3
@@ -16,6 +16,6 @@ class:
 
 **Duration:** Instant
 **Range:** Self
-**DC/Spell Type:** Wis DC 13
+**Ability:** Wis
 
 End any hostile magical effects affecting Rathgamnon.

@@ -5,7 +5,7 @@ ttrpg-source:
 tags:
   - ttrpg/spell
   - ttrpg/monster-spell
-spell-type: Int
+spell-ability: Int
 duration: Focus
 range: Close
 tier: 2
@@ -16,6 +16,6 @@ class:
 
 **Duration:** Focus
 **Range:** Close
-**DC/Spell Type:** Int DC 12
+**Ability:** Int
 
 Hover near for duration, vertical movement only. 

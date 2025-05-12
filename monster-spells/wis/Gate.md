@@ -5,7 +5,7 @@ ttrpg-source:
 tags:
   - ttrpg/spell
   - ttrpg/monster-spell
-spell-type: Wis
+spell-ability: Wis
 duration: 1d6 rounds
 range: Near
 tier: 4
@@ -16,6 +16,6 @@ class:
 
 **Duration:** 1d6 rounds
 **Range:** Near
-**DC/Spell Type:** Wis DC 14
+**Ability:** Wis
 
 Open a portal at a point within near to another location on any plane. Lasts 1d6 rounds or until dismissed. 

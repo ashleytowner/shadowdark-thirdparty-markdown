@@ -5,7 +5,7 @@ ttrpg-source:
 tags:
   - ttrpg/spell
   - ttrpg/monster-spell
-spell-type: Int
+spell-ability: Int
 duration: Instant
 range: Near
 tier: 4
@@ -16,6 +16,6 @@ class:
 
 **Duration:** Instant
 **Range:** Near
-**DC/Spell Type:** Int DC 14
+**Ability:** Int
 
 One creature in near takes 5d8 damage.

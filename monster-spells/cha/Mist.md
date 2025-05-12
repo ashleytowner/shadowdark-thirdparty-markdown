@@ -5,7 +5,7 @@ ttrpg-source:
 tags:
   - ttrpg/spell
   - ttrpg/monster-spell
-spell-type: Cha
+spell-ability: Cha
 duration: 2d4 rounds
 range: Self
 tier: 3
@@ -16,6 +16,6 @@ class:
 
 **Duration:** 2d4 rounds
 **Range:** Self
-**DC/Spell Type:** Cha DC 13
+**Ability:** Cha
 
 Turn into mist that can fly double near. Lasts 2d4 rounds.

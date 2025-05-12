@@ -5,7 +5,7 @@ ttrpg-source:
 tags:
   - ttrpg/spell
   - ttrpg/monster-spell
-spell-type: Wis
+spell-ability: Wis
 duration: Focus
 range: Near
 tier: 3
@@ -16,6 +16,6 @@ class:
 
 **Duration:** Focus
 **Range:** Near
-**DC/Spell Type:** Wis DC 13
+**Ability:** Wis
 
 Chaotic creatures cannot attack priest or come within near range for duration.

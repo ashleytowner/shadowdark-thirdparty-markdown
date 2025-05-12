@@ -5,7 +5,7 @@ ttrpg-source:
 tags:
   - ttrpg/spell
   - ttrpg/monster-spell
-spell-type: Int
+spell-ability: Int
 duration: Instant
 range: Self
 tier: 5
@@ -16,6 +16,6 @@ class:
 
 **Duration:** Instant
 **Range:** Self and 4 willing targets
-**DC/Spell Type:** Int DC 15`
+**Ability:** Int
 
 Teleport up to 100 miles.

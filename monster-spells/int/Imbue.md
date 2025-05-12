@@ -5,7 +5,7 @@ ttrpg-source:
 tags:
   - ttrpg/spell
   - ttrpg/monster-spell
-spell-type: Int
+spell-ability: Int
 duration: 10 rounds
 range: Self
 tier: 3
@@ -16,6 +16,6 @@ class:
 
 **Duration:** 10 rounds
 **Range:** Self
-**DC/Spell Type:** Int DC 13
+**Ability:** Int
 
 Staff becomes a +3 magic weapon for 10 rounds.

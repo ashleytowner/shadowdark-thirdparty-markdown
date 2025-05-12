@@ -5,7 +5,7 @@ ttrpg-source:
 tags:
   - ttrpg/spell
   - ttrpg/monster-spell
-spell-type: Int
+spell-ability: Int
 duration: Instant
 range: Far
 tier: 2
@@ -16,6 +16,6 @@ class:
 
 **Duration:** Instant
 **Range:** Far
-**DC/Spell Type:** Int DC 12
+**Ability:** Int
 
 One target in far takes 2d6 damage.

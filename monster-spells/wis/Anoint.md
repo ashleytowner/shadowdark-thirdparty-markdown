@@ -5,7 +5,7 @@ ttrpg-source:
 tags:
   - ttrpg/spell
   - ttrpg/monster-spell
-spell-type: Wis
+spell-ability: Wis
 duration: 10 rounds
 range: Close
 tier: 2
@@ -16,6 +16,6 @@ class:
 
 **Duration:** 10 rounds
 **Range:** Close
-**DC/Spell Type:** Wis DC 12
+**Ability:** Wis
 
 One weapon or armor becomes a magic +2 version for 10 rounds. 

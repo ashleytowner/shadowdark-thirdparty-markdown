@@ -5,7 +5,7 @@ ttrpg-source:
 tags:
   - ttrpg/spell
   - ttrpg/monster-spell
-spell-type: Wis
+spell-ability: Wis
 duration: Instant
 range: Close
 tier: 2
@@ -16,6 +16,6 @@ class:
 
 **Duration:** Instant
 **Range:** Close
-**DC/Spell Type:** Wis DC 12
+**Ability:** Wis
 
 2d4 damage to one creature within close.

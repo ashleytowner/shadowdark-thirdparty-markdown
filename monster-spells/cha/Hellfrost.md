@@ -5,7 +5,7 @@ ttrpg-source:
 tags:
   - ttrpg/spell
   - ttrpg/monster-spell
-spell-type: Cha
+spell-ability: Cha
 duration: Instant
 range: Near
 tier: 3
@@ -16,6 +16,6 @@ class:
 
 **Duration:** Instant
 **Range:** Near
-**DC/Spell Type:** Cha DC 13
+**Ability:** Cha
 
 All within near-sized cube extending from oni 3d6 damage. 

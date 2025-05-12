@@ -5,7 +5,7 @@ ttrpg-source:
 tags:
   - ttrpg/spell
   - ttrpg/monster-spell
-spell-type: Wis
+spell-ability: Wis
 duration: 5 rounds
 range: Self
 tier: 2
@@ -16,6 +16,6 @@ class:
 
 **Duration:** 5 rounds
 **Range:** Self
-**DC/Spell Type:** Wis DC 12
+**Ability:** Wis
 
 Climb like a spider for 5 rounds. 
