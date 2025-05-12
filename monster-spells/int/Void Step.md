@@ -9,7 +9,8 @@ spell-type: Int
 duration: Instant
 range: Self
 tier: 5
-class: monster
+class:
+  - monster
 ---
 **Tier**: 5
 

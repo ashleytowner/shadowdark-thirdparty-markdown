@@ -9,7 +9,8 @@ duration: Instant
 range: Far
 spell-type: Int
 tier: 2
-class: monster
+class:
+  - monster
 ---
 **Tier**: 2
 

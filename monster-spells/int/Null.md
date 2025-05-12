@@ -9,7 +9,8 @@ spell-type: Int
 duration: 1d4 rounds
 range: Self
 tier: 4
-class: monster
+class:
+  - monster
 ---
 **Tier**: 4
 

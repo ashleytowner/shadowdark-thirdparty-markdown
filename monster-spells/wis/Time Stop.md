@@ -10,7 +10,8 @@ duration: 1d4 rounds
 range: Self
 tier: 5
 armor-type: 
-class: monster
+class:
+  - monster
 ---
 **Tier**: 5
 

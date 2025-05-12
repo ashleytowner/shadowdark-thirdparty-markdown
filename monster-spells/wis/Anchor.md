@@ -9,7 +9,8 @@ tier: 4
 duration: 1d4 rounds
 range: Far
 spell-type: Wis
-class: monster
+class:
+  - monster
 ---
 **Tier**: 4
 

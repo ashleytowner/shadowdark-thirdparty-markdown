@@ -9,7 +9,8 @@ spell-type: Wis
 duration: Instant
 range: Near
 tier: 2
-class: monster
+class:
+  - monster
 ---
 **Tier**: 2
 

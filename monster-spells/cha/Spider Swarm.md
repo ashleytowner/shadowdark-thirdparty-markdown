@@ -9,7 +9,8 @@ spell-type: Cha
 duration: 1d4 rounds
 range: Near
 tier: 2
-class: monster
+class:
+  - monster
 ---
 **Tier**: 2
 

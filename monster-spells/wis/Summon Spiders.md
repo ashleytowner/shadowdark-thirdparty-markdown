@@ -9,7 +9,8 @@ spell-type: Wis
 duration: 5 rounds
 range: Near
 tier: 4
-class: monster
+class:
+  - monster
 ---
 **Tier**: 4
 

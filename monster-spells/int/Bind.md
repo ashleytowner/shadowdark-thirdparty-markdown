@@ -9,7 +9,8 @@ spell-type: Int
 duration: 1d4 rounds
 range: Far
 tier: 2
-class: monster
+class:
+  - monster
 ---
 **Tier**: 2
 

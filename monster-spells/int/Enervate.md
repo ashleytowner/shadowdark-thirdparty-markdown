@@ -9,7 +9,8 @@ spell-type: Int
 duration: Focus
 range: Near
 tier: 5
-class: monster
+class:
+  - monster
 ---
 **Tier**: 5
 

@@ -9,7 +9,8 @@ spell-type: Cha
 duration: 1 day
 range: Close
 tier: 12
-class: monster
+class:
+  - monster
 ---
 **Tier**: 2
 

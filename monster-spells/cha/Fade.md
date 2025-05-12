@@ -9,7 +9,8 @@ spell-type: Cha
 duration: 1d4 rounds
 range: Self
 tier: 3
-class: monster
+class:
+  - monster
 ---
 **Tier**: 3
 

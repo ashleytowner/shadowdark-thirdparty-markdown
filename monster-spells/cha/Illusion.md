@@ -9,7 +9,8 @@ spell-type: Cha
 duration: Permanent
 range: Near
 tier: 1
-class: monster
+class:
+  - monster
 ---
 **Tier**: 1
 
