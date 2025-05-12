@@ -12,19 +12,9 @@ ttrpg-source: "Shadowdark Core Rules"
 
 **Animate Tree**. 2/day. In place of attacks, one tree within near awakens as a treant ally without this ability. Reverts back in 1 day.
 
-**Anoint (WIS Spell)**. DC 12. Close. One weapon or armor becomes a magic +2 version for 10 rounds. 
-
-**Arcane Armor (INT Spell)**. Self. DC 12. AC 16 for 2d4 rounds. 
-
 **Attach**. Attach to target; bite auto-hits next round. DC 12 STR on turn to tear off.
 
-**Banish (INT Spell)**. DC 14, All extradimensional creatures within near DC 15 CHA or sent back to their home planes.
-
 **Barb**. Each spine sticks, dealing 1d4 damage each round. DC 12 STR check on turn to remove.
-
-**Barkskin (INT Spell)**. Self. DC 13. AC becomes 15 for 5 rounds. 
-
-**Beguile (INT Spell)**. DC 11. Focus. One target in near of LV 2 or less is stupefied for the duration. 
 
 **Bewilder**. Creatures within near that see the cave brute's eyes, DC 12 CHA at start of their turn or dazed and no action.
 
@@ -79,8 +69,6 @@ ttrpg-source: "Shadowdark Core Rules"
 **Curse**. DC 15 CON or target gains a magical curse, turning into a deep one over 2d10 days. 
 
 **Darkness**. Extinguish all light sources in near.
-
-**Death Bolt (INT Spell)**. DC 15. One target of LV 9 or less within near DC 15 CON or go to 0 HP. 
 
 **Disease**. DC 12 CON or 1d4 CON damage (can't heal while ill). Repeat check once per day; ends on success. Die at 0 CON.
 
@@ -156,11 +144,7 @@ ttrpg-source: "Shadowdark Core Rules"
 
 **Healing Horn**. A touch heals 2d6 HP or ends one curse or disease.
 
-**Healing Touch (WIS Spell)**. DC 11. Heal one creature within close for 1d4 HP.
-
 **Hear Thoughts**. Can hear the surface thoughts of all intelligent creatures within near. 
-
-**Hiss (INT Spell)**. DC 12. End one spell within far. 
 
 **Horn**. All enemies in near DC 15 CHA or paralyzed 1d4 rounds.
 
