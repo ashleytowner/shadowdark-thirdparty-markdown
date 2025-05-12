@@ -12,7 +12,7 @@ tier: 2
 class:
   - monster
 ---
-**Tier**: 2
+*Tier 2, monster*
 
 **Duration:** 1d4 rounds
 

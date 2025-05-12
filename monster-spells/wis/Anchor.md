@@ -12,7 +12,7 @@ spell-type: Wis
 class:
   - monster
 ---
-**Tier**: 4
+*Tier 4, monster*
 
 **Duration:** 1d4 rounds
 

@@ -12,7 +12,7 @@ tier: 5
 class:
   - monster
 ---
-**Tier**: 5
+*Tier 5, monster*
 
 **Duration:** Focus
 

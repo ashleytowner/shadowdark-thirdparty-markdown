@@ -12,7 +12,7 @@ tier: 3
 class:
   - monster
 ---
-**Tier**: 3
+*Tier 3, monster*
 
 **Duration:** 10 rounds
 

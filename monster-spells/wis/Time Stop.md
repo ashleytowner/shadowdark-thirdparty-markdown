@@ -13,7 +13,7 @@ armor-type:
 class:
   - monster
 ---
-**Tier**: 5
+*Tier 5, monster*
 
 **Duration:** 1d4 rounds
 
