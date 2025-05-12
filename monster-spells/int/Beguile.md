@@ -15,9 +15,7 @@ class:
 *Tier 1, monster*
 
 **Duration:** Focus
-
 **Range:** Near
-
 **DC/Spell Type:** Int DC 11
 
 One target in near of LV 2 or less is stupefied for the duration. 

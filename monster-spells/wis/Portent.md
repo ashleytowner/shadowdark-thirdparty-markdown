@@ -15,9 +15,7 @@ class:
 *Tier 4, monster*
 
 **Duration:** 2d4 rounds
-
 **Range:** Near
-
 **DC/Spell Type:** Wis DC 14
 
 Lasts 2d4 rounds. One target in near has advantage or disadvantage on all attack rolls and checks.

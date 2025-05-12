@@ -15,9 +15,7 @@ class:
 *Tier 2, monster*
 
 **Duration:** 1d4 rounds
-
 **Range:** Far
-
 **DC/Spell Type:** Int DC 12
 
 One humanoid in far paralyzed 1d4 rounds.

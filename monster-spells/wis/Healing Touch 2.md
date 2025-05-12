@@ -15,9 +15,7 @@ class:
 *Tier 1, monster*
 
 **Duration:** Instant
-
 **Range:** Close
-
 **DC/Spell Type:** Wis DC 11
 
 Heal one creature within close for 2d4 HP.

@@ -15,9 +15,7 @@ class:
 *Tier 4, monster*
 
 **Duration:** 5 rounds
-
 **Range:** Self
-
 **DC/Spell Type:** Int DC 14
 
 Fly double near for 5 rounds. 

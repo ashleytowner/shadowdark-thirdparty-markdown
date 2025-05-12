@@ -15,9 +15,7 @@ class:
 *Tier 3, monster*
 
 **Duration:** 1d4 Rounds
-
 **Range:** Near
-
 **DC/Spell Type:** Int DC 13
 
 Summon 1d4 loyal cobras that appear within near. They leave in 1d4 rounds. 

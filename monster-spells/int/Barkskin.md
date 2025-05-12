@@ -15,9 +15,7 @@ class:
 *Tier 2, monster*
 
 **Duration:** 5 rounds
-
 **Range:** Self
-
 **DC/Spell Type:** Int DC 12
 
 AC becomes 15 for 5 rounds.

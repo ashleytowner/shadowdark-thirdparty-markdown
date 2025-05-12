@@ -15,9 +15,7 @@ class:
 *Tier 4, monster*
 
 **Duration:** Focus
-
 **Range:** Near
-
 **DC/Spell Type:** Int DC 14
 
 All enemies within near of caster have DISADV on spellcasting checks for the duration.

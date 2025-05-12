@@ -15,9 +15,7 @@ class:
 *Tier 1, monster*
 
 **Duration:** Lasts until dismissed. 
-
 **Range:** Near
-
 **DC/Spell Type:** Cha DC 11
 
 Create a convincing visual and/ or auditory illusion within near. Lasts until dismissed. 

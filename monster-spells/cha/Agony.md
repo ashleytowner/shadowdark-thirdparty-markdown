@@ -15,9 +15,7 @@ class:
 *Tier 4, monster*
 
 **Duration:** Instant
-
 **Range:** Near
-
 **DC/Spell Type:** Cha DC 14
 
 One target in near takes 3d8 damage. 

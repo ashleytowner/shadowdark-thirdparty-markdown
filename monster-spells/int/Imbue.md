@@ -15,9 +15,7 @@ class:
 *Tier 3, monster*
 
 **Duration:** 10 rounds
-
 **Range:** Self
-
 **DC/Spell Type:** Int DC 13
 
 Staff becomes a +3 magic weapon for 10 rounds.

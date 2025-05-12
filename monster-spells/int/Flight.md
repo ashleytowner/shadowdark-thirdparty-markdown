@@ -15,9 +15,7 @@ class:
 *Tier 3, monster*
 
 **Duration:** 5 rounds
-
 **Range:** Self
-
 **DC/Spell Type:** Int DC 13
 
 Fly double near for 5 rounds. 

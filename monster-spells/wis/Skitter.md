@@ -15,9 +15,7 @@ class:
 *Tier 2, monster*
 
 **Duration:** 5 rounds
-
 **Range:** Self
-
 **DC/Spell Type:** Wis DC 12
 
 Climb like a spider for 5 rounds. 

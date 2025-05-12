@@ -15,9 +15,7 @@ class:
 *Tier 5, monster*
 
 **Duration:** Instant
-
 **Range:** Self and 4 willing targets
-
 **DC/Spell Type:** Int DC 15`
 
 Teleport up to 100 miles.

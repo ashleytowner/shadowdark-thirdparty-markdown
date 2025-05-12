@@ -15,9 +15,7 @@ class:
 *Tier 4, monster*
 
 **Duration:** 1d4 rounds
-
 **Range:** Near
-
 **DC/Spell Type:** Wis DC 14
 
 One target in near frozen in time for 1d4 rounds. 

@@ -15,9 +15,7 @@ class:
 *Tier 5, monster*
 
 **Duration:** Instant
-
 **Range:** Near
-
 **DC/Spell Type:** Int DC 15
 
 Learn the *True Name* of target.

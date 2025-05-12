@@ -15,9 +15,7 @@ class:
 *Tier 2, monster*
 
 **Duration:** Focus
-
 **Range:** Close
-
 **DC/Spell Type:** Int DC 12
 
 Hover near for duration, vertical movement only. 

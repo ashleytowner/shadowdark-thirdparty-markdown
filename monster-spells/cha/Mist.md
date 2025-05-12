@@ -15,9 +15,7 @@ class:
 *Tier 3, monster*
 
 **Duration:** 2d4 rounds
-
 **Range:** Self
-
 **DC/Spell Type:** Cha DC 13
 
 Turn into mist that can fly double near. Lasts 2d4 rounds.

@@ -15,9 +15,7 @@ class:
 *Tier 2, monster*
 
 **Duration:** Instant
-
 **Range:** Near
-
 **DC/Spell Type:** Wis DC 12
 
 Extinguish all light sources (even magical) within near. 

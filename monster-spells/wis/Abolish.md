@@ -15,9 +15,7 @@ class:
 *Tier 3, monster*
 
 **Duration:** 
-
 **Range:** Far
-
 **DC/Spell Type:** Wis DC 13
 
 One target in far takes 5d8 damage.

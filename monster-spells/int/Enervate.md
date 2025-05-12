@@ -15,9 +15,7 @@ class:
 *Tier 5, monster*
 
 **Duration:** Focus
-
 **Range:** Near
-
 **DC/Spell Type:** Int DC 15
 
 One target within near is stupefied for the duration. 

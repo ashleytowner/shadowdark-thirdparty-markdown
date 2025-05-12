@@ -15,9 +15,7 @@ class:
 *Tier 4, monster*
 
 **Duration:** Instant
-
 **Range:** Self
-
 **DC/Spell Type:** Int DC 14
 
 Teleport up to 100 miles. 

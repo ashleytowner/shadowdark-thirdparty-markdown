@@ -15,9 +15,7 @@ class:
 *Tier 2, monster*
 
 **Duration:** Instant
-
 **Range:** Far
-
 **DC/Spell Type:** Int DC 12
 
 Far, one target. 2d6 damage. 

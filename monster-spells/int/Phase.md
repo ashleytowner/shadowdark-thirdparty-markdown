@@ -15,9 +15,7 @@ class:
 *Tier 3, monster*
 
 **Duration:** Instant
-
 **Range:** Self
-
 **DC/Spell Type:** Int DC 13
 
 Teleport up to one mile.

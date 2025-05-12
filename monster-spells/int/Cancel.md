@@ -15,9 +15,7 @@ class:
 *Tier 2, monster*
 
 **Duration:** Instant
-
 **Range:** Near
-
 **DC/Spell Type:** Int DC 12
 
 End one spell affecting a target within near. 

@@ -15,9 +15,7 @@ class:
 *Tier 1, monster*
 
 **Duration:** Instant
-
 **Range:** Near
-
 **DC/Spell Type:** Cha DC 11
 
 Near range, one target. 1d6 damage and target has DISADV on next attack roll or check.

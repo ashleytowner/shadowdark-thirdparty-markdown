@@ -15,9 +15,7 @@ class:
 *Tier 3, monster*
 
 **Duration:** Instant
-
 **Range:** Near
-
 **DC/Spell Type:** Int DC 13
 
 Fills a near-sized cube extending from druid. Creatures within are thrown 2d20 feet in a random direction.

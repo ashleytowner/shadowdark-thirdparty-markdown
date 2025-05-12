@@ -15,9 +15,7 @@ class:
 *Tier 1, monster*
 
 **Duration:** Instant
-
 **Range:** Far
-
 **DC/Spell Type:** Int DC 11
 
 1d4 damage to one target within far.

@@ -15,9 +15,7 @@ class:
 *Tier 3, monster*
 
 **Duration:** 1d4 rounds
-
 **Range:** Self
-
 **DC/Spell Type:** Cha DC 13
 
 Become invisible for 1d4 rounds. 

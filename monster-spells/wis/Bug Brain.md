@@ -15,9 +15,7 @@ class:
 *Tier 3, monster*
 
 **Duration:** 1d4 rounds
-
 **Range:** Near
-
 **DC/Spell Type:** Wis DC 13
 
 Near range, one target. Target's INT drops to 1 for 1d4 rounds. 

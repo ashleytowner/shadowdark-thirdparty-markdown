@@ -15,9 +15,7 @@ class:
 *Tier 2, monster*
 
 **Duration:** 1d4 rounds
-
 **Range:** Self
-
 **DC/Spell Type:** Wis DC 12
 
 ADV on all actions for 1d4 rounds. 

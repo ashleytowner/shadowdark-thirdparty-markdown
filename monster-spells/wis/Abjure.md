@@ -15,9 +15,7 @@ class:
 *Tier 3, monster*
 
 **Duration:** Instant
-
 **Range:** Self
-
 **DC/Spell Type:** Wis DC 13
 
 End any hostile magical effects affecting Rathgamnon.

@@ -15,9 +15,7 @@ class:
 *Tier 4, monster*
 
 **Duration:** Instant
-
 **Range:** Far
-
 **DC/Spell Type:** Int DC 14
 
 4d6 damage to all within a near- sized cube within far. 

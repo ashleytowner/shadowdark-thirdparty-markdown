@@ -15,9 +15,7 @@ class:
 *Tier 3, monster*
 
 **Duration:** Focus
-
 **Range:** Near
-
 **DC/Spell Type:** Int DC 13
 
 One humanoid target within near paralyzed for duration.

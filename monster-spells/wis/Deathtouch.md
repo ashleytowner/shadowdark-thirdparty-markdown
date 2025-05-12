@@ -15,9 +15,7 @@ class:
 *Tier 2, monster*
 
 **Duration:** Instant
-
 **Range:** Close
-
 **DC/Spell Type:** Wis DC 12
 
 2d4 damage to one creature within close.
